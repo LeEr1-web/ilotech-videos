@@ -1,0 +1,42 @@
+# Robot IloTech : remplit la file Buffer deux fois par jour, même quand le PC est éteint.
+# Il programme les contenus déjà en ligne dans ce dépôt (catalogue.json) ; le PC ajoute les nouveaux quand il est allumé.
+name: Remplir Buffer
+
+on:
+  schedule:
+    - cron: "30 10 * * *"   # 6 h 30 en Martinique
+    - cron: "30 22 * * *"   # 18 h 30 en Martinique
+  workflow_dispatch:         # bouton « Run workflow » pour un passage à la main
+
+permissions:
+  contents: write            # pour enregistrer etat.json / cloud.json / journal.txt
+
+concurrency:
+  group: buffer
+  cancel-in-progress: false
+
+jobs:
+  remplir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: outils   # + les fichiers à la racine ; pas besoin de télécharger les vidéos
+          filter: blob:none
+
+      - name: Programmer les prochains posts
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+        run: python3 outils/planif_buffer.py
+
+      - name: Enregistrer l'état
+        if: always()
+        run: |
+          git config user.name "ilotech-robot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add etat.json cloud.json journal.txt
+          git diff --cached --quiet && exit 0
+          git commit -m "Buffer : passage du robot"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 15; done
+          exit 1

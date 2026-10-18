@@ -1,0 +1,23 @@
+{
+ "heures": [
+  "06:00",
+  "08:00",
+  "12:00",
+  "14:00",
+  "16:00"
+ ],
+ "heures_video": [
+  "08:00",
+  "12:00",
+  "16:00"
+ ],
+ "services": [
+  "tiktok",
+  "youtube",
+  "instagram",
+  "facebook"
+ ],
+ "max_en_attente": 10,
+ "image_couverture_ms": 1500,
+ "url_hebergement": "https://raw.githubusercontent.com/LeEr1-web/ilotech-videos/main"
+}
