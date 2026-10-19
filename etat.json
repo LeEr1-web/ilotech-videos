@@ -399,6 +399,29 @@
     "6ac8472a6a5c39ccb65aad3d": "6ad4d24e938409f1d0d2d252",
     "6ac823306a5c39ccb65921b2": "6ad4d24ea48c8f83719e02c7"
    }
+  },
+  "k-qr-piege": {
+   "date": "2026-10-20T12:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ad561ef938409f1d0f1ca5e",
+    "6ac8472a6a5c39ccb65aad3d": "6ad561ef769b457934e5fa73",
+    "6ac823306a5c39ccb65921b2": "6ad561f00b0d72757a44db03"
+   }
+  },
+  "i-pov-onglets": {
+   "date": "2026-10-20T14:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6ad561f0769b457934e5fa9d",
+    "6ac823306a5c39ccb65921b2": "6ad561f0938409f1d0f1cab3"
+   }
+  },
+  "p-mot-de-passe": {
+   "date": "2026-10-20T16:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ad561f1ae173d6e00239678",
+    "6ac8472a6a5c39ccb65aad3d": "6ad561f20a208cb323891a98",
+    "6ac823306a5c39ccb65921b2": "6ad561f2938409f1d0f1caf5"
+   }
   }
  }
 }

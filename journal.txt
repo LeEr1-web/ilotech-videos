@@ -7,3 +7,11 @@
 2026-10-18 10:06:05  OK Buffer d-orage-pc → youtube le 20/10 08:00
 2026-10-18 10:06:06  OK Buffer d-orage-pc → tiktok le 20/10 08:00
 2026-10-18 10:06:06  OK Buffer d-orage-pc → instagram le 20/10 08:00
+2026-10-18 20:18:55  OK Buffer k-qr-piege → youtube le 20/10 12:00
+2026-10-18 20:18:55  OK Buffer k-qr-piege → tiktok le 20/10 12:00
+2026-10-18 20:18:56  OK Buffer k-qr-piege → instagram le 20/10 12:00
+2026-10-18 20:18:56  OK Buffer i-pov-onglets → tiktok le 20/10 14:00
+2026-10-18 20:18:56  OK Buffer i-pov-onglets → instagram le 20/10 14:00
+2026-10-18 20:18:57  OK Buffer p-mot-de-passe → youtube le 20/10 16:00
+2026-10-18 20:18:58  OK Buffer p-mot-de-passe → tiktok le 20/10 16:00
+2026-10-18 20:18:58  OK Buffer p-mot-de-passe → instagram le 20/10 16:00
