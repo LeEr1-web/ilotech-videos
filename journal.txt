@@ -15,3 +15,11 @@
 2026-10-18 20:18:57  OK Buffer p-mot-de-passe → youtube le 20/10 16:00
 2026-10-18 20:18:58  OK Buffer p-mot-de-passe → tiktok le 20/10 16:00
 2026-10-18 20:18:58  OK Buffer p-mot-de-passe → instagram le 20/10 16:00
+2026-10-19 13:04:50  OK Buffer c-321-diapo → youtube le 20/10 19:00
+2026-10-19 13:04:51  OK Buffer c-321-diapo → tiktok le 20/10 19:00
+2026-10-19 13:04:51  OK Buffer c-321-diapo → instagram le 20/10 19:00
+2026-10-19 13:04:52  OK Buffer t-association → tiktok le 21/10 06:00
+2026-10-19 13:04:52  OK Buffer t-association → instagram le 21/10 06:00
+2026-10-19 13:04:53  OK Buffer f-commerces → youtube le 21/10 08:00
+2026-10-19 13:04:54  OK Buffer f-commerces → tiktok le 21/10 08:00
+2026-10-19 13:04:54  OK Buffer f-commerces → instagram le 21/10 08:00

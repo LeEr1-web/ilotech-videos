@@ -422,6 +422,29 @@
     "6ac8472a6a5c39ccb65aad3d": "6ad5ba17fe198605b4cbd729",
     "6ac823306a5c39ccb65921b2": "6ad5ba19fe198605b4cbd784"
    }
+  },
+  "c-321-diapo": {
+   "date": "2026-10-20T19:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ad64db2067ea837fe33ca30",
+    "6ac8472a6a5c39ccb65aad3d": "6ad64db30fd6b6c1b97158a8",
+    "6ac823306a5c39ccb65921b2": "6ad64db3067ea837fe33ca7e"
+   }
+  },
+  "t-association": {
+   "date": "2026-10-21T06:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6ad64db4d08938c2fa2f365c",
+    "6ac823306a5c39ccb65921b2": "6ad64db4067ea837fe33cad1"
+   }
+  },
+  "f-commerces": {
+   "date": "2026-10-21T08:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ad64db5408d925d996f4711",
+    "6ac8472a6a5c39ccb65aad3d": "6ad64db5d08938c2fa2f376d",
+    "6ac823306a5c39ccb65921b2": "6ad64db6067ea837fe33cb40"
+   }
   }
  }
 }
