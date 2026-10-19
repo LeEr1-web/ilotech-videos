@@ -388,16 +388,16 @@
   "i-cyclone-quiz": {
    "date": "2026-10-20T06:00:00-04:00",
    "canaux": {
-    "6ac8472a6a5c39ccb65aad3d": "6ad4d24c938409f1d0d2d20d",
-    "6ac823306a5c39ccb65921b2": "6ad4d24dae173d6e000464ae"
+    "6ac8472a6a5c39ccb65aad3d": "6ad5c7ceaa3b6d94b207fbc8",
+    "6ac823306a5c39ccb65921b2": "6ad5c7cfe4ecf041eaa99a6a"
    }
   },
   "d-orage-pc": {
    "date": "2026-10-20T08:00:00-04:00",
    "canaux": {
-    "6aca4de46a5c39ccb6721c49": "6ad598eb0b0d72757a4ee3cd",
-    "6ac8472a6a5c39ccb65aad3d": "6ad598ee8206df0c0fb12f8a",
-    "6ac823306a5c39ccb65921b2": "6ad598f2769b457934f01a7e"
+    "6aca4de46a5c39ccb6721c49": "6ad5c7bc38c1835cd4437132",
+    "6ac8472a6a5c39ccb65aad3d": "6ad5c7bdfe198605b4cf4fa7",
+    "6ac823306a5c39ccb65921b2": "6ad5c7be38c1835cd44371ce"
    }
   },
   "k-qr-piege": {
