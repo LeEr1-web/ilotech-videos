@@ -357,17 +357,17 @@
   "t-camera-maison": {
    "date": "2026-10-19T08:00:00-04:00",
    "canaux": {
-    "6aca4de46a5c39ccb6721c49": "6ad37afa0b0d72757adbd045",
-    "6ac8472a6a5c39ccb65aad3d": "6ad37afb769b4579347c563e",
-    "6ac823306a5c39ccb65921b2": "6ad37afcae173d6e00bac64f"
+    "6aca4de46a5c39ccb6721c49": "6ad594258206df0c0fb034b5",
+    "6ac8472a6a5c39ccb65aad3d": "6ad59426938409f1d0fa8dd5",
+    "6ac823306a5c39ccb65921b2": "6ad594280b0d72757a4dd668"
    }
   },
   "t-cyclone": {
    "date": "2026-10-19T12:00:00-04:00",
    "canaux": {
-    "6aca4de46a5c39ccb6721c49": "6ad40055769b4579349a0fc3",
-    "6ac8472a6a5c39ccb65aad3d": "6ad400560a208cb3233ee36a",
-    "6ac823306a5c39ccb65921b2": "6ad40057ae173d6e00d8cb4c"
+    "6aca4de46a5c39ccb6721c49": "6ad595420b0d72757a4e0230",
+    "6ac8472a6a5c39ccb65aad3d": "6ad59544ae173d6e002d3b0a",
+    "6ac823306a5c39ccb65921b2": "6ad59545ae173d6e002d3b7d"
    }
   },
   "i-cle-usb": {
@@ -380,9 +380,9 @@
   "b-wifi-barres": {
    "date": "2026-10-19T16:00:00-04:00",
    "canaux": {
-    "6aca4de46a5c39ccb6721c49": "6ad4d24bae173d6e00046413",
-    "6ac8472a6a5c39ccb65aad3d": "6ad4d24b769b457934c648cc",
-    "6ac823306a5c39ccb65921b2": "6ad4d24c938409f1d0d2d1e3"
+    "6aca4de46a5c39ccb6721c49": "6ad59646769b457934ef9c31",
+    "6ac8472a6a5c39ccb65aad3d": "6ad59648938409f1d0fb0228",
+    "6ac823306a5c39ccb65921b2": "6ad59649769b457934ef9cab"
    }
   },
   "i-cyclone-quiz": {
@@ -395,17 +395,17 @@
   "d-orage-pc": {
    "date": "2026-10-20T08:00:00-04:00",
    "canaux": {
-    "6aca4de46a5c39ccb6721c49": "6ad4d24d0b0d72757a2583ec",
-    "6ac8472a6a5c39ccb65aad3d": "6ad4d24e938409f1d0d2d252",
-    "6ac823306a5c39ccb65921b2": "6ad4d24ea48c8f83719e02c7"
+    "6aca4de46a5c39ccb6721c49": "6ad598eb0b0d72757a4ee3cd",
+    "6ac8472a6a5c39ccb65aad3d": "6ad598ee8206df0c0fb12f8a",
+    "6ac823306a5c39ccb65921b2": "6ad598f2769b457934f01a7e"
    }
   },
   "k-qr-piege": {
    "date": "2026-10-20T12:00:00-04:00",
    "canaux": {
-    "6aca4de46a5c39ccb6721c49": "6ad561ef938409f1d0f1ca5e",
-    "6ac8472a6a5c39ccb65aad3d": "6ad561ef769b457934e5fa73",
-    "6ac823306a5c39ccb65921b2": "6ad561f00b0d72757a44db03"
+    "6aca4de46a5c39ccb6721c49": "6ad5b75c38c1835cd43f3456",
+    "6ac8472a6a5c39ccb65aad3d": "6ad5b761fe198605b4cb1b8c",
+    "6ac823306a5c39ccb65921b2": "6ad5b764fe198605b4cb1c96"
    }
   },
   "i-pov-onglets": {
@@ -418,9 +418,9 @@
   "p-mot-de-passe": {
    "date": "2026-10-20T16:00:00-04:00",
    "canaux": {
-    "6aca4de46a5c39ccb6721c49": "6ad561f1ae173d6e00239678",
-    "6ac8472a6a5c39ccb65aad3d": "6ad561f20a208cb323891a98",
-    "6ac823306a5c39ccb65921b2": "6ad561f2938409f1d0f1caf5"
+    "6aca4de46a5c39ccb6721c49": "6ad5ba16aa3b6d94b204c317",
+    "6ac8472a6a5c39ccb65aad3d": "6ad5ba17fe198605b4cbd729",
+    "6ac823306a5c39ccb65921b2": "6ad5ba19fe198605b4cbd784"
    }
   }
  }
