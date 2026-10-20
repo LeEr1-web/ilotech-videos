@@ -23,3 +23,8 @@
 2026-10-19 13:04:53  OK Buffer f-commerces → youtube le 21/10 08:00
 2026-10-19 13:04:54  OK Buffer f-commerces → tiktok le 21/10 08:00
 2026-10-19 13:04:54  OK Buffer f-commerces → instagram le 21/10 08:00
+2026-10-19 21:08:15  OK Buffer i-quiz-mdp → tiktok le 21/10 10:00
+2026-10-19 21:08:16  OK Buffer i-quiz-mdp → instagram le 21/10 10:00
+2026-10-19 21:08:16  OK Buffer vu-batterie → youtube le 21/10 12:00
+2026-10-19 21:08:17  OK Buffer vu-batterie → tiktok le 21/10 12:00
+2026-10-19 21:08:17  OK Buffer vu-batterie → instagram le 21/10 12:00

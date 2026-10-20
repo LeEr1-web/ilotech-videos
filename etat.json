@@ -445,6 +445,21 @@
     "6ac8472a6a5c39ccb65aad3d": "6ad64db5d08938c2fa2f376d",
     "6ac823306a5c39ccb65921b2": "6ad64db6067ea837fe33cb40"
    }
+  },
+  "i-quiz-mdp": {
+   "date": "2026-10-21T10:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6ad6beffe9c669def5e3544b",
+    "6ac823306a5c39ccb65921b2": "6ad6bf009d034d7aedd069b7"
+   }
+  },
+  "vu-batterie": {
+   "date": "2026-10-21T12:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ad6bf002fcafd0f1844c22b",
+    "6ac8472a6a5c39ccb65aad3d": "6ad6bf01b81183413da7b99c",
+    "6ac823306a5c39ccb65921b2": "6ad6bf01b81183413da7b9d6"
+   }
   }
  }
 }
