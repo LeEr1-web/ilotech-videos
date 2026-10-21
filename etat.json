@@ -505,6 +505,29 @@
     "6ac8472a6a5c39ccb65aad3d": "6ad80a93d894396f66bb6343",
     "6ac823306a5c39ccb65921b2": "6ad80a93db7d8198213a5699"
    }
+  },
+  "v-vf-wifi": {
+   "date": "2026-10-22T12:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ad8da600fd9d0bd3959b6c6",
+    "6ac8472a6a5c39ccb65aad3d": "6ad8da61d7ec68457b6b345b",
+    "6ac823306a5c39ccb65921b2": "6ad8da61ee069bfcd2351a0c"
+   }
+  },
+  "i-ssd": {
+   "date": "2026-10-22T14:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6ad8da62d7ec68457b6b34f9",
+    "6ac823306a5c39ccb65921b2": "6ad8da62d7ec68457b6b3541"
+   }
+  },
+  "vu-cloud": {
+   "date": "2026-10-22T16:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ad8da630fd9d0bd3959b7e3",
+    "6ac8472a6a5c39ccb65aad3d": "6ad8da63d7ec68457b6b3587",
+    "6ac823306a5c39ccb65921b2": "6ad8da640fd9d0bd3959b838"
+   }
   }
  }
 }

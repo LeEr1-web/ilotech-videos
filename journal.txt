@@ -43,3 +43,11 @@
 2026-10-20 20:42:59  OK Buffer f-depannage → instagram le 22/10 08:00
 2026-10-20 20:42:59  OK Buffer i-services → tiktok le 22/10 10:00
 2026-10-20 20:42:59  OK Buffer i-services → instagram le 22/10 10:00
+2026-10-21 11:29:36  OK Buffer v-vf-wifi → youtube le 22/10 12:00
+2026-10-21 11:29:37  OK Buffer v-vf-wifi → tiktok le 22/10 12:00
+2026-10-21 11:29:37  OK Buffer v-vf-wifi → instagram le 22/10 12:00
+2026-10-21 11:29:38  OK Buffer i-ssd → tiktok le 22/10 14:00
+2026-10-21 11:29:38  OK Buffer i-ssd → instagram le 22/10 14:00
+2026-10-21 11:29:39  OK Buffer vu-cloud → youtube le 22/10 16:00
+2026-10-21 11:29:40  OK Buffer vu-cloud → tiktok le 22/10 16:00
+2026-10-21 11:29:40  OK Buffer vu-cloud → instagram le 22/10 16:00
