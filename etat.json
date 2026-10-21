@@ -475,6 +475,36 @@
     "6ac8472a6a5c39ccb65aad3d": "6ad785e11b735549d7a7c7c0",
     "6ac823306a5c39ccb65921b2": "6ad785e24e5218a908986220"
    }
+  },
+  "c-arnaque-annonce-diapo": {
+   "date": "2026-10-21T19:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ad80a8fe591f1f2d27c5413",
+    "6ac8472a6a5c39ccb65aad3d": "6ad80a90aff466fe09f49840",
+    "6ac823306a5c39ccb65921b2": "6ad80a90d894396f66bb62d3"
+   }
+  },
+  "i-quiz-ram": {
+   "date": "2026-10-22T06:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6ad80a91e591f1f2d27c544b",
+    "6ac823306a5c39ccb65921b2": "6ad80a919fdbc474fbf31876"
+   }
+  },
+  "f-depannage": {
+   "date": "2026-10-22T08:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ad80a9250009d9e95ffb068",
+    "6ac8472a6a5c39ccb65aad3d": "6ad80a92db7d8198213a566f",
+    "6ac823306a5c39ccb65921b2": "6ad80a93e591f1f2d27c547d"
+   }
+  },
+  "i-services": {
+   "date": "2026-10-22T10:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6ad80a93d894396f66bb6343",
+    "6ac823306a5c39ccb65921b2": "6ad80a93db7d8198213a5699"
+   }
   }
  }
 }
