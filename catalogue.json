@@ -1,21 +1,6 @@
 {
  "contenus": [
   {
-   "id": "b-wifi-barres",
-   "kind": "video",
-   "fichiers": [
-    "videos/b-wifi-barres-c616e77b.mp4"
-   ],
-   "sig": "c616e77b",
-   "titre": "Toutes les barres Wi-Fi, mais pas d'Internet : pourquoi ?",
-   "tiktok": "Toutes les barres de Wi-Fi… et rien ne charge ? Voilà pourquoi 📶\nLes barres Wi-Fi mesurent seulement la liaison entre ton téléphone et ta box, pas Internet. Voyants, redémarrage de 30 secondes, test en 4G : les 3 réflexes avant d'appeler.\n📲 WhatsApp : lien en bio\n📍 Martinique\n\n#martinique #972 #astucetech #wifi #internet",
-   "instagram": "Toutes les barres de Wi-Fi… et rien ne charge ? Voilà pourquoi 📶\n\nLes barres Wi-Fi mesurent seulement la liaison entre ton téléphone et ta box, pas Internet. Voyants, redémarrage de 30 secondes, test en 4G : les 3 réflexes avant d'appeler.\n\n🔖 Enregistre ce post pour plus tard\n📲 WhatsApp : lien en bio\n📍 Martinique · 972\n\n#martinique #972 #informatique #wifi #internet",
-   "facebook": "💻 ILOTECH\n\nToutes les barres de Wi-Fi… et rien ne charge ? Voilà pourquoi 📶\n\nLes barres Wi-Fi mesurent seulement la liaison entre ton téléphone et ta box, pas Internet. Voyants, redémarrage de 30 secondes, test en 4G : les 3 réflexes avant d'appeler.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "youtube": "💻 ILOTECH\n\nToutes les barres de Wi-Fi… et rien ne charge ? Voilà pourquoi 📶\n\nLes barres Wi-Fi mesurent seulement la liaison entre ton téléphone et ta box, pas Internet. Voyants, redémarrage de 30 secondes, test en 4G : les 3 réflexes avant d'appeler.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "yt_title": "Toutes les barres Wi-Fi, mais pas d'Internet : pourquoi ? #Shorts",
-   "ia": false
-  },
-  {
    "id": "c-321-diapo",
    "kind": "video",
    "fichiers": [
@@ -31,21 +16,6 @@
    "ia": false
   },
   {
-   "id": "d-orage-pc",
-   "kind": "video",
-   "fichiers": [
-    "videos/d-orage-pc-baf21c77.mp4"
-   ],
-   "sig": "baf21c77",
-   "titre": "Orage : pourquoi ton PC peut griller (et comment l'éviter)",
-   "tiktok": "La foudre tombe à quelques centaines de mètres… et ton PC peut griller ⚡\nSurtension, coupure, protection : ce qui se passe vraiment pendant un orage, et les gestes qui limitent les risques pour ton ordinateur, ta box et ta télé.\n📲 WhatsApp : lien en bio\n📍 Martinique\n\n#martinique #972 #astucetech #orage #martinique",
-   "instagram": "La foudre tombe à quelques centaines de mètres… et ton PC peut griller ⚡\n\nSurtension, coupure, protection : ce qui se passe vraiment pendant un orage, et les gestes qui limitent les risques pour ton ordinateur, ta box et ta télé.\n\n🔖 Enregistre ce post pour plus tard\n📲 WhatsApp : lien en bio\n📍 Martinique · 972\n\n#martinique #972 #informatique #orage #martinique",
-   "facebook": "💻 ILOTECH\n\nLa foudre tombe à quelques centaines de mètres… et ton PC peut griller ⚡\n\nSurtension, coupure, protection : ce qui se passe vraiment pendant un orage, et les gestes qui limitent les risques pour ton ordinateur, ta box et ta télé.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "youtube": "💻 ILOTECH\n\nLa foudre tombe à quelques centaines de mètres… et ton PC peut griller ⚡\n\nSurtension, coupure, protection : ce qui se passe vraiment pendant un orage, et les gestes qui limitent les risques pour ton ordinateur, ta box et ta télé.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "yt_title": "Orage : pourquoi ton PC peut griller (et comment l'éviter) #Shorts",
-   "ia": false
-  },
-  {
    "id": "f-commerces",
    "kind": "video",
    "fichiers": [
@@ -58,21 +28,6 @@
    "facebook": "💻 ILOTECH\n\nCommerçant en Martinique ? Ton informatique, on s'en charge 🏪\n\nRéseau et Wi-Fi clients, équipement de caisse, caméras de surveillance. Écris-nous sur WhatsApp.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
    "youtube": "💻 ILOTECH\n\nCommerçant en Martinique ? Ton informatique, on s'en charge 🏪\n\nRéseau et Wi-Fi clients, équipement de caisse, caméras de surveillance. Écris-nous sur WhatsApp.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
    "yt_title": "Informatique pour les commerces #Shorts",
-   "ia": false
-  },
-  {
-   "id": "i-cle-usb",
-   "kind": "images",
-   "fichiers": [
-    "images/i-cle-usb-ec531782/01.jpg"
-   ],
-   "sig": "ec531782",
-   "titre": "Le saviez-vous ? Une clé USB perdue, c'est tes fichiers lisibles par n'importe qui 🔑",
-   "tiktok": "Le saviez-vous ? Une clé USB perdue, c'est tes fichiers lisibles par n'importe qui 🔑\nChiffre-la : outils gratuits comme VeraCrypt, ou BitLocker sur Windows Pro.\n📲 WhatsApp : lien en bio\n📍 Martinique\n\n#martinique #972 #astucetech #cleusb #securite",
-   "instagram": "Le saviez-vous ? Une clé USB perdue, c'est tes fichiers lisibles par n'importe qui 🔑\n\nChiffre-la : outils gratuits comme VeraCrypt, ou BitLocker sur Windows Pro.\n\n🔖 Enregistre ce post pour plus tard\n📲 WhatsApp : lien en bio\n📍 Martinique · 972\n\n#martinique #972 #informatique #cleusb #securite",
-   "facebook": "💻 ILOTECH\n\nLe saviez-vous ? Une clé USB perdue, c'est tes fichiers lisibles par n'importe qui 🔑\n\nChiffre-la : outils gratuits comme VeraCrypt, ou BitLocker sur Windows Pro.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "youtube": "💻 ILOTECH\n\nLe saviez-vous ? Une clé USB perdue, c'est tes fichiers lisibles par n'importe qui 🔑\n\nChiffre-la : outils gratuits comme VeraCrypt, ou BitLocker sur Windows Pro.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "yt_title": "Le saviez-vous ? Une clé USB perdue, c'est tes fichiers lisibles par n'importe qui 🔑 #Shorts",
    "ia": false
   },
   {
@@ -183,21 +138,6 @@
    "facebook": "💻 ILOTECH\n\nTon PC rame ou ne démarre plus ? On s'en occupe 💻\n\nOrdinateur lent, qui plante ou qui ne démarre plus : IloTech trouve la cause et répare. Écris-nous sur WhatsApp.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
    "youtube": "💻 ILOTECH\n\nTon PC rame ou ne démarre plus ? On s'en occupe 💻\n\nOrdinateur lent, qui plante ou qui ne démarre plus : IloTech trouve la cause et répare. Écris-nous sur WhatsApp.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
    "yt_title": "Dépannage d'ordinateurs en Martinique #Shorts",
-   "ia": false
-  },
-  {
-   "id": "i-cyclone-quiz",
-   "kind": "images",
-   "fichiers": [
-    "images/i-cyclone-quiz-dd6b3ab9/01.jpg"
-   ],
-   "sig": "dd6b3ab9",
-   "titre": "Quiz : avant un orage, tu débranches ta box internet ? 🤔",
-   "tiktok": "Quiz : avant un orage, tu débranches ta box internet ? 🤔\nOui ou non ? Réponds en commentaire 👇 (la bonne réponse : OUI, avant l'orage, car la surtension passe par le courant et la ligne)\n📲 WhatsApp : lien en bio\n📍 Martinique\n\n#martinique #972 #astucetech #cyclone #quiz",
-   "instagram": "Quiz : avant un orage, tu débranches ta box internet ? 🤔\n\nOui ou non ? Réponds en commentaire 👇 (la bonne réponse : OUI, avant l'orage, car la surtension passe par le courant et la ligne)\n\n🔖 Enregistre ce post pour plus tard\n📲 WhatsApp : lien en bio\n📍 Martinique · 972\n\n#martinique #972 #informatique #cyclone #quiz",
-   "facebook": "💻 ILOTECH\n\nQuiz : avant un orage, tu débranches ta box internet ? 🤔\n\nOui ou non ? Réponds en commentaire 👇 (la bonne réponse : OUI, avant l'orage, car la surtension passe par le courant et la ligne)\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "youtube": "💻 ILOTECH\n\nQuiz : avant un orage, tu débranches ta box internet ? 🤔\n\nOui ou non ? Réponds en commentaire 👇 (la bonne réponse : OUI, avant l'orage, car la surtension passe par le courant et la ligne)\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "yt_title": "Quiz : avant un orage, tu débranches ta box internet ? 🤔 #Shorts",
    "ia": false
   },
   {
@@ -477,21 +417,6 @@
    "ia": false
   },
   {
-   "id": "t-camera-maison",
-   "kind": "video",
-   "fichiers": [
-    "videos/t-camera-maison-44d2d1c8.mp4"
-   ],
-   "sig": "44d2d1c8",
-   "titre": "Caméras à la maison : 4 conseils avant d'installer 📹",
-   "tiktok": "Caméras à la maison : 4 conseils avant d'installer 📹\nBien placées, elles protègent vraiment. Mal placées, elles ne servent à rien.\n📲 WhatsApp : lien en bio\n📍 Martinique\n\n#martinique #972 #astucetech #videosurveillance #securite",
-   "instagram": "Caméras à la maison : 4 conseils avant d'installer 📹\n\nBien placées, elles protègent vraiment. Mal placées, elles ne servent à rien.\n\n🔖 Enregistre ce post pour plus tard\n📲 WhatsApp : lien en bio\n📍 Martinique · 972\n\n#martinique #972 #informatique #videosurveillance #securite",
-   "facebook": "💻 ILOTECH\n\nCaméras à la maison : 4 conseils avant d'installer 📹\n\nBien placées, elles protègent vraiment. Mal placées, elles ne servent à rien.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "youtube": "💻 ILOTECH\n\nCaméras à la maison : 4 conseils avant d'installer 📹\n\nBien placées, elles protègent vraiment. Mal placées, elles ne servent à rien.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "yt_title": "Caméras à la maison : 4 conseils avant d'installer 📹 #Shorts",
-   "ia": false
-  },
-  {
    "id": "v4-controle-parental",
    "kind": "video",
    "fichiers": [
@@ -564,21 +489,6 @@
    "facebook": "💻 ILOTECH\n\nIloTech, ton informaticien en Martinique 💻🌴\n\nDépannage, réseaux, sécurité, équipement des commerces : écris-nous sur WhatsApp.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
    "youtube": "💻 ILOTECH\n\nIloTech, ton informaticien en Martinique 💻🌴\n\nDépannage, réseaux, sécurité, équipement des commerces : écris-nous sur WhatsApp.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
    "yt_title": "IloTech, ton informaticien en Martinique 💻🌴 #Shorts",
-   "ia": false
-  },
-  {
-   "id": "t-cyclone",
-   "kind": "video",
-   "fichiers": [
-    "videos/t-cyclone-e844a163.mp4"
-   ],
-   "sig": "e844a163",
-   "titre": "Saison cyclonique : ta checklist tech avant l'alerte 🌀",
-   "tiktok": "Saison cyclonique : ta checklist tech avant l'alerte 🌀\nCoupures, surtensions, inondations : protège ton matériel ET tes données. Enregistre ce post.\n📲 WhatsApp : lien en bio\n📍 Martinique\n\n#martinique #972 #astucetech #cyclone #martinique",
-   "instagram": "Saison cyclonique : ta checklist tech avant l'alerte 🌀\n\nCoupures, surtensions, inondations : protège ton matériel ET tes données. Enregistre ce post.\n\n🔖 Enregistre ce post pour plus tard\n📲 WhatsApp : lien en bio\n📍 Martinique · 972\n\n#martinique #972 #informatique #cyclone #martinique",
-   "facebook": "💻 ILOTECH\n\nSaison cyclonique : ta checklist tech avant l'alerte 🌀\n\nCoupures, surtensions, inondations : protège ton matériel ET tes données. Enregistre ce post.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "youtube": "💻 ILOTECH\n\nSaison cyclonique : ta checklist tech avant l'alerte 🌀\n\nCoupures, surtensions, inondations : protège ton matériel ET tes données. Enregistre ce post.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "yt_title": "Saison cyclonique : ta checklist tech avant l'alerte 🌀 #Shorts",
    "ia": false
   },
   {
