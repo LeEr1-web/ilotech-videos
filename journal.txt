@@ -61,3 +61,11 @@
 2026-10-21 20:46:30  OK Buffer c-chaleur-diapo → instagram le 23/10 08:00
 2026-10-21 20:46:31  OK Buffer i-wifi-astuce → tiktok le 23/10 10:00
 2026-10-21 20:46:31  OK Buffer i-wifi-astuce → instagram le 23/10 10:00
+2026-10-22 11:29:19  OK Buffer f-donnees → youtube le 23/10 12:00
+2026-10-22 11:29:19  OK Buffer f-donnees → tiktok le 23/10 12:00
+2026-10-22 11:29:20  OK Buffer f-donnees → instagram le 23/10 12:00
+2026-10-22 11:29:20  OK Buffer i-wifi-qr → tiktok le 23/10 14:00
+2026-10-22 11:29:20  OK Buffer i-wifi-qr → instagram le 23/10 14:00
+2026-10-22 11:29:21  OK Buffer v4-avis-cable → youtube le 23/10 16:00
+2026-10-22 11:29:22  OK Buffer v4-avis-cable → tiktok le 23/10 16:00
+2026-10-22 11:29:22  OK Buffer v4-avis-cable → instagram le 23/10 16:00

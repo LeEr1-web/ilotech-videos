@@ -558,6 +558,29 @@
     "6ac8472a6a5c39ccb65aad3d": "6ad95ce7b086d40f57283b77",
     "6ac823306a5c39ccb65921b2": "6ad95ce7b086d40f57283bcc"
    }
+  },
+  "f-donnees": {
+   "date": "2026-10-23T12:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ada2bcfeb1348c17ac792ee",
+    "6ac8472a6a5c39ccb65aad3d": "6ada2bcfeb1348c17ac7932d",
+    "6ac823306a5c39ccb65921b2": "6ada2bd01cc831fdc3c5802b"
+   }
+  },
+  "i-wifi-qr": {
+   "date": "2026-10-23T14:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6ada2bd0a6a09108d272831d",
+    "6ac823306a5c39ccb65921b2": "6ada2bd0f09f431dcae661e4"
+   }
+  },
+  "v4-avis-cable": {
+   "date": "2026-10-23T16:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ada2bd11cc831fdc3c58061",
+    "6ac8472a6a5c39ccb65aad3d": "6ada2bd1e8cca8cdcc5b799c",
+    "6ac823306a5c39ccb65921b2": "6ada2bd2e8cca8cdcc5b79fc"
+   }
   }
  }
 }
