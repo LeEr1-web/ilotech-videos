@@ -528,6 +528,36 @@
     "6ac8472a6a5c39ccb65aad3d": "6ad8da63d7ec68457b6b3587",
     "6ac823306a5c39ccb65921b2": "6ad8da640fd9d0bd3959b838"
    }
+  },
+  "x-pc-lent": {
+   "date": "2026-10-22T19:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ad95ce3deacf5d253228f3b",
+    "6ac8472a6a5c39ccb65aad3d": "6ad95ce3b086d40f57283a90",
+    "6ac823306a5c39ccb65921b2": "6ad95ce4b086d40f57283ac3"
+   }
+  },
+  "t-etudiant": {
+   "date": "2026-10-23T06:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6ad95ce4b086d40f57283af5",
+    "6ac823306a5c39ccb65921b2": "6ad95ce5deacf5d253228f98"
+   }
+  },
+  "c-chaleur-diapo": {
+   "date": "2026-10-23T08:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ad95ce5b086d40f57283b1f",
+    "6ac8472a6a5c39ccb65aad3d": "6ad95ce6b086d40f57283b4c",
+    "6ac823306a5c39ccb65921b2": "6ad95ce67dadc432f7323078"
+   }
+  },
+  "i-wifi-astuce": {
+   "date": "2026-10-23T10:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6ad95ce7b086d40f57283b77",
+    "6ac823306a5c39ccb65921b2": "6ad95ce7b086d40f57283bcc"
+   }
   }
  }
 }

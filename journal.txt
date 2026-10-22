@@ -51,3 +51,13 @@
 2026-10-21 11:29:39  OK Buffer vu-cloud → youtube le 22/10 16:00
 2026-10-21 11:29:40  OK Buffer vu-cloud → tiktok le 22/10 16:00
 2026-10-21 11:29:40  OK Buffer vu-cloud → instagram le 22/10 16:00
+2026-10-21 20:46:27  OK Buffer x-pc-lent → youtube le 22/10 19:00
+2026-10-21 20:46:27  OK Buffer x-pc-lent → tiktok le 22/10 19:00
+2026-10-21 20:46:28  OK Buffer x-pc-lent → instagram le 22/10 19:00
+2026-10-21 20:46:29  OK Buffer t-etudiant → tiktok le 23/10 06:00
+2026-10-21 20:46:29  OK Buffer t-etudiant → instagram le 23/10 06:00
+2026-10-21 20:46:30  OK Buffer c-chaleur-diapo → youtube le 23/10 08:00
+2026-10-21 20:46:30  OK Buffer c-chaleur-diapo → tiktok le 23/10 08:00
+2026-10-21 20:46:30  OK Buffer c-chaleur-diapo → instagram le 23/10 08:00
+2026-10-21 20:46:31  OK Buffer i-wifi-astuce → tiktok le 23/10 10:00
+2026-10-21 20:46:31  OK Buffer i-wifi-astuce → instagram le 23/10 10:00
