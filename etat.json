@@ -611,6 +611,29 @@
     "6ac8472a6a5c39ccb65aad3d": "6adaae62535235087b73c9ac",
     "6ac823306a5c39ccb65921b2": "6adaae621dc335d347e7e6ea"
    }
+  },
+  "c-commerce-diapo": {
+   "date": "2026-10-24T12:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6adb7ba36fe59a6ed27fb30e",
+    "6ac8472a6a5c39ccb65aad3d": "6adb7ba391ffb6bdb08f4439",
+    "6ac823306a5c39ccb65921b2": "6adb7ba46fe59a6ed27fb38f"
+   }
+  },
+  "i4-win-point": {
+   "date": "2026-10-24T14:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6adb7ba46bf37011a381289a",
+    "6ac823306a5c39ccb65921b2": "6adb7ba57af932dee4e94824"
+   }
+  },
+  "f-pc-gamer": {
+   "date": "2026-10-24T16:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6adb7ba5ce9fbd2e3b53eb77",
+    "6ac8472a6a5c39ccb65aad3d": "6adb7ba66bf37011a38128de",
+    "6ac823306a5c39ccb65921b2": "6adb7ba66fe59a6ed27fb432"
+   }
   }
  }
 }
