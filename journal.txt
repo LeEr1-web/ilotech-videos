@@ -69,3 +69,13 @@
 2026-10-22 11:29:21  OK Buffer v4-avis-cable → youtube le 23/10 16:00
 2026-10-22 11:29:22  OK Buffer v4-avis-cable → tiktok le 23/10 16:00
 2026-10-22 11:29:22  OK Buffer v4-avis-cable → instagram le 23/10 16:00
+2026-10-22 20:46:22  OK Buffer vu-mot-de-passe → youtube le 23/10 19:00
+2026-10-22 20:46:23  OK Buffer vu-mot-de-passe → tiktok le 23/10 19:00
+2026-10-22 20:46:24  OK Buffer vu-mot-de-passe → instagram le 23/10 19:00
+2026-10-22 20:46:24  OK Buffer i-win-v → tiktok le 24/10 06:00
+2026-10-22 20:46:24  OK Buffer i-win-v → instagram le 24/10 06:00
+2026-10-22 20:46:25  OK Buffer x-whatsapp-vole → youtube le 24/10 08:00
+2026-10-22 20:46:25  OK Buffer x-whatsapp-vole → tiktok le 24/10 08:00
+2026-10-22 20:46:26  OK Buffer x-whatsapp-vole → instagram le 24/10 08:00
+2026-10-22 20:46:26  OK Buffer i4-voiture-soleil → tiktok le 24/10 10:00
+2026-10-22 20:46:26  OK Buffer i4-voiture-soleil → instagram le 24/10 10:00

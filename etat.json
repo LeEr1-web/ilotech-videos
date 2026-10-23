@@ -581,6 +581,36 @@
     "6ac8472a6a5c39ccb65aad3d": "6ada2bd1e8cca8cdcc5b799c",
     "6ac823306a5c39ccb65921b2": "6ada2bd2e8cca8cdcc5b79fc"
    }
+  },
+  "vu-mot-de-passe": {
+   "date": "2026-10-23T19:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6adaae5ecc1b7cdc08c2e858",
+    "6ac8472a6a5c39ccb65aad3d": "6adaae5f9ef33e7811ae0c29",
+    "6ac823306a5c39ccb65921b2": "6adaae5f1dc335d347e7e62c"
+   }
+  },
+  "i-win-v": {
+   "date": "2026-10-24T06:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6adaae60d447d56a646c86ad",
+    "6ac823306a5c39ccb65921b2": "6adaae60cc1b7cdc08c2e882"
+   }
+  },
+  "x-whatsapp-vole": {
+   "date": "2026-10-24T08:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6adaae611dc335d347e7e685",
+    "6ac8472a6a5c39ccb65aad3d": "6adaae61535235087b73c980",
+    "6ac823306a5c39ccb65921b2": "6adaae621dc335d347e7e6b7"
+   }
+  },
+  "i4-voiture-soleil": {
+   "date": "2026-10-24T10:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6adaae62535235087b73c9ac",
+    "6ac823306a5c39ccb65921b2": "6adaae621dc335d347e7e6ea"
+   }
   }
  }
 }
