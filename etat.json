@@ -665,6 +665,30 @@
     "6ac8472a6a5c39ccb65aad3d": "6adc01640b5343d0705a0564",
     "6ac823306a5c39ccb65921b2": "6adc01658b3d437ddc930957"
    }
+  },
+  "f-securite": {
+   "date": "2026-10-25T12:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6adcbb12e4be8a4d866130b6",
+    "6ac8472a6a5c39ccb65aad3d": "6adcbb12e4be8a4d8661311b",
+    "6ac823306a5c39ccb65921b2": "6adcbb138b3d437ddcc145d0"
+   }
+  },
+  "v4-controle-parental": {
+   "date": "2026-10-25T14:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6adcbb14e4be8a4d866131cd",
+    "6ac8472a6a5c39ccb65aad3d": "6adcbb150b5343d07088304e",
+    "6ac823306a5c39ccb65921b2": "6adcbb15bd33ce99c3280686"
+   }
+  },
+  "vu-photo-binaire": {
+   "date": "2026-10-25T16:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6adcbb160b5343d07088316f",
+    "6ac8472a6a5c39ccb65aad3d": "6adcbb17bd33ce99c328078c",
+    "6ac823306a5c39ccb65921b2": "6adcbb176887a2efc1bda0e4"
+   }
   }
  }
 }

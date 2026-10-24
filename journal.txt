@@ -98,3 +98,12 @@
 2026-10-23 20:52:52  OK Buffer c-imprimante-diapo → youtube le 25/10 10:00
 2026-10-23 20:52:52  OK Buffer c-imprimante-diapo → tiktok le 25/10 10:00
 2026-10-23 20:52:53  OK Buffer c-imprimante-diapo → instagram le 25/10 10:00
+2026-10-24 10:05:06  OK Buffer f-securite → youtube le 25/10 12:00
+2026-10-24 10:05:07  OK Buffer f-securite → tiktok le 25/10 12:00
+2026-10-24 10:05:08  OK Buffer f-securite → instagram le 25/10 12:00
+2026-10-24 10:05:08  OK Buffer v4-controle-parental → youtube le 25/10 14:00
+2026-10-24 10:05:09  OK Buffer v4-controle-parental → tiktok le 25/10 14:00
+2026-10-24 10:05:10  OK Buffer v4-controle-parental → instagram le 25/10 14:00
+2026-10-24 10:05:10  OK Buffer vu-photo-binaire → youtube le 25/10 16:00
+2026-10-24 10:05:11  OK Buffer vu-photo-binaire → tiktok le 25/10 16:00
+2026-10-24 10:05:11  OK Buffer vu-photo-binaire → instagram le 25/10 16:00
