@@ -634,6 +634,37 @@
     "6ac8472a6a5c39ccb65aad3d": "6adb7ba66bf37011a38128de",
     "6ac823306a5c39ccb65921b2": "6adb7ba66fe59a6ed27fb432"
    }
+  },
+  "v4-clients-croient": {
+   "date": "2026-10-24T19:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6adc01610b5343d0705a04dd",
+    "6ac8472a6a5c39ccb65aad3d": "6adc0161bd33ce99c3fa473e",
+    "6ac823306a5c39ccb65921b2": "6adc0161bd33ce99c3fa476a"
+   }
+  },
+  "t-teletravail": {
+   "date": "2026-10-25T06:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6adc01620b5343d0705a052f",
+    "6ac823306a5c39ccb65921b2": "6adc01626887a2efc18fb19f"
+   }
+  },
+  "vu-pc-chauffe": {
+   "date": "2026-10-25T08:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6adc0163e4be8a4d86327602",
+    "6ac8472a6a5c39ccb65aad3d": "6adc0163bd33ce99c3fa479c",
+    "6ac823306a5c39ccb65921b2": "6adc01636887a2efc18fb1cb"
+   }
+  },
+  "c-imprimante-diapo": {
+   "date": "2026-10-25T10:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6adc01643d5b27036b5c7b10",
+    "6ac8472a6a5c39ccb65aad3d": "6adc01640b5343d0705a0564",
+    "6ac823306a5c39ccb65921b2": "6adc01658b3d437ddc930957"
+   }
   }
  }
 }
