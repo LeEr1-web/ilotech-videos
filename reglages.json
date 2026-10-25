@@ -21,15 +21,6 @@
   "facebook"
  ],
  "max_en_attente": 10,
- "stories": {
-  "services": [
-   "instagram",
-   "facebook"
-  ],
-  "types": [
-   "video"
-  ]
- },
  "image_couverture_ms": 1500,
  "url_hebergement": "https://raw.githubusercontent.com/LeEr1-web/ilotech-videos/main"
 }
