@@ -107,3 +107,15 @@
 2026-10-24 10:05:10  OK Buffer vu-photo-binaire → youtube le 25/10 16:00
 2026-10-24 10:05:11  OK Buffer vu-photo-binaire → tiktok le 25/10 16:00
 2026-10-24 10:05:11  OK Buffer vu-photo-binaire → instagram le 25/10 16:00
+2026-10-24 20:25:03  OK Buffer c-mdp-diapo → youtube le 25/10 19:00
+2026-10-24 20:25:03  OK Buffer c-mdp-diapo → tiktok le 25/10 19:00
+2026-10-24 20:25:03  OK Buffer c-mdp-diapo → instagram le 25/10 19:00
+2026-10-24 20:25:04  OK Buffer f-wifi → youtube le 26/10 06:00
+2026-10-24 20:25:05  OK Buffer f-wifi → tiktok le 26/10 06:00
+2026-10-24 20:25:05  OK Buffer f-wifi → instagram le 26/10 06:00
+2026-10-24 20:25:06  OK Buffer v4-gens-qui → youtube le 26/10 08:00
+2026-10-24 20:25:06  OK Buffer v4-gens-qui → tiktok le 26/10 08:00
+2026-10-24 20:25:07  OK Buffer v4-gens-qui → instagram le 26/10 08:00
+2026-10-24 20:25:08  OK Buffer vu-wifi → youtube le 26/10 10:00
+2026-10-24 20:25:09  OK Buffer vu-wifi → tiktok le 26/10 10:00
+2026-10-24 20:25:09  OK Buffer vu-wifi → instagram le 26/10 10:00

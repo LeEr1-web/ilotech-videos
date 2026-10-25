@@ -689,6 +689,38 @@
     "6ac8472a6a5c39ccb65aad3d": "6adcbb17bd33ce99c328078c",
     "6ac823306a5c39ccb65921b2": "6adcbb176887a2efc1bda0e4"
    }
+  },
+  "c-mdp-diapo": {
+   "date": "2026-10-25T19:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6add4c5e0b5343d070ab0869",
+    "6ac8472a6a5c39ccb65aad3d": "6add4c5fe4be8a4d86838b9b",
+    "6ac823306a5c39ccb65921b2": "6add4c5f3d5b27036bac2129"
+   }
+  },
+  "f-wifi": {
+   "date": "2026-10-26T06:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6add4c60e4be8a4d86838be6",
+    "6ac8472a6a5c39ccb65aad3d": "6add4c610b5343d070ab08b6",
+    "6ac823306a5c39ccb65921b2": "6add4c61e4be8a4d86838c12"
+   }
+  },
+  "v4-gens-qui": {
+   "date": "2026-10-26T08:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6add4c620b5343d070ab090d",
+    "6ac8472a6a5c39ccb65aad3d": "6add4c628b3d437ddce4832b",
+    "6ac823306a5c39ccb65921b2": "6add4c63e4be8a4d86838c3e"
+   }
+  },
+  "vu-wifi": {
+   "date": "2026-10-26T10:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6add4c640b5343d070ab0955",
+    "6ac8472a6a5c39ccb65aad3d": "6add4c658b3d437ddce48369",
+    "6ac823306a5c39ccb65921b2": "6add4c653d5b27036bac219b"
+   }
   }
  }
 }
