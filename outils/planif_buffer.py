@@ -166,6 +166,27 @@ def post_one(c, it, due, urls):
     return r["post"]["id"]
 
 
+def stories_pour(c, it):
+    """Story en plus du post (reglages.json « stories ») : par défaut les vidéos sur Instagram et Facebook.
+    La musique est déjà dans la vidéo (les réseaux ne permettent pas d'ajouter leur musique par programme)."""
+    st = CONF.get("stories", {"services": ["instagram", "facebook"], "types": ["video"]})
+    return c["service"] in st.get("services", []) and it["kind"] in st.get("types", [])
+
+
+def post_story(c, it, due, urls):
+    """Story Instagram ou Facebook : la vidéo entière, ou la première image d'un carrousel."""
+    if it["kind"] == "images":
+        a = [{"image": {"url": urls[0], "metadata": {"altText": it["titre"]}}}]
+    else:
+        a = [{"video": {"url": urls[0]}}]
+    inp = {"channelId": c["id"], "text": text_for(c["service"], it), "schedulingType": "automatic",
+           "mode": "customScheduled", "dueAt": due, "assets": a, "metadata": {c["service"]: {"type": "story"}}}
+    r = gql(MUTATION, {"input": inp})["createPost"]
+    if "message" in r:
+        raise RuntimeError(f"{c['service']} story : {r['message']}")
+    return r["post"]["id"]
+
+
 def supprimer(post_id):
     gql('mutation($i: PostId!) { deletePost(input:{id:$i}) { __typename } }', {"i": post_id})
 
@@ -204,9 +225,9 @@ def remplir(essai=False, limite=None):
     if not chans:
         raise RuntimeError("aucun compte Buffer compatible trouvé")
     erreurs = [] if essai else completer(etat, chans, now, cat)
-    # en attente = programmé, pas encore passé (YouTube ne reçoit qu'un contenu sur trois : pas limitant)
-    pending = {c["id"]: sum(1 for p in etat["posts"].values() if c["id"] in p["canaux"]
-                            and dt.datetime.fromisoformat(p["date"]) > now) for c in chans if c["service"] != "youtube"}
+    # en attente = programmé, pas encore passé, stories comprises (YouTube ne reçoit qu'un contenu sur trois : pas limitant)
+    pending = {c["id"]: sum((c["id"] in p["canaux"]) + (c["id"] + ":story" in p["canaux"]) for p in etat["posts"].values()
+                            if dt.datetime.fromisoformat(p["date"]) > now) for c in chans if c["service"] != "youtube"}
     room = min(CONF["max_en_attente"] - n for n in pending.values()) if pending else CONF["max_en_attente"]
     if limite is not None:
         room = min(room, limite)
@@ -225,8 +246,16 @@ def remplir(essai=False, limite=None):
         if not it:
             break
         targets = [c for c in chans if compatible(c, it)]
+        # place dans la file gratuite (10 par compte) : le post + sa story éventuelle
+        besoin = {c["id"]: 1 + stories_pour(c, it) for c in targets if c["id"] in pending}
+        if any(pending[cid] + k > CONF["max_en_attente"] for cid, k in besoin.items()):
+            break
         if essai:
-            print(f"[essai] {when:%a %d/%m %H:%M}  {it['kind']:<6} {it['id']}  → {', '.join(c['service'] for c in targets)}")
+            st = [c["service"] for c in targets if stories_pour(c, it)]
+            print(f"[essai] {when:%a %d/%m %H:%M}  {it['kind']:<6} {it['id']}  → {', '.join(c['service'] for c in targets)}"
+                  + (f"  + story : {', '.join(st)}" if st else ""))
+            for cid, k in besoin.items():
+                pending[cid] += k
             rest.remove(it)
             continue
         done = {}
@@ -234,6 +263,12 @@ def remplir(essai=False, limite=None):
             for c in targets:
                 done[c["id"]] = post_one(c, it, utc(when), liens(it))
                 log(f"OK Buffer {it['id']} → {c['service']} le {when:%d/%m %H:%M}")
+                if stories_pour(c, it):
+                    quand = when + dt.timedelta(minutes=5)
+                    done[c["id"] + ":story"] = post_story(c, it, utc(quand), liens(it))
+                    log(f"OK Buffer {it['id']} → {c['service']} story le {quand:%d/%m %H:%M}")
+            for cid, k in besoin.items():
+                pending[cid] += k
             etat["posts"][it["id"]] = {"date": when.isoformat(), "canaux": done}
             ecrire("etat.json", etat)
             rest.remove(it)
