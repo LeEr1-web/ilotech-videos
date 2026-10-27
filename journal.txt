@@ -135,3 +135,7 @@
 2026-10-26 21:33:40  OK Buffer c-mises-a-jour-diapo → tiktok le 27/10 06:00
 2026-10-26 21:33:40  OK Buffer c-mises-a-jour-diapo → instagram le 27/10 06:00
 2026-10-26 21:33:40  ERREUR Buffer c-mises-a-jour-diapo : [{"message": "Variable \"$input\" got invalid value { type: \"story\" } at \"input.metadata.instagram\"; Expected value of type \"InstagramPostMetadataInput\" to include required field \"shouldShareToFeed\", found: { type: \"story\" }.", "locations": [{"line": 1, "column": 10}], "extensions": {"code": "INTERNAL_SERVER_ERROR"}}]
+2026-10-27 11:57:34  OK Buffer c-mises-a-jour-diapo → youtube le 27/10 14:00
+2026-10-27 11:57:35  OK Buffer c-mises-a-jour-diapo → tiktok le 27/10 14:00
+2026-10-27 11:57:35  OK Buffer c-mises-a-jour-diapo → instagram le 27/10 14:00
+2026-10-27 11:57:36  ERREUR Buffer c-mises-a-jour-diapo : [{"message": "Variable \"$input\" got invalid value { type: \"story\" } at \"input.metadata.instagram\"; Expected value of type \"InstagramPostMetadataInput\" to include required field \"shouldShareToFeed\", found: { type: \"story\" }.", "locations": [{"line": 1, "column": 10}], "extensions": {"code": "INTERNAL_SERVER_ERROR"}}]
