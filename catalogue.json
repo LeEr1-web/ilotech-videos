@@ -1,96 +1,6 @@
 {
  "contenus": [
   {
-   "id": "vu-pc-chauffe",
-   "kind": "video",
-   "fichiers": [
-    "videos/vu-pc-chauffe-0cd99ace.mp4"
-   ],
-   "sig": "0cd99ace",
-   "titre": "Pourquoi ton PC chauffe",
-   "tiktok": "Ton PC chauffe comme une plaque sous le soleil martiniquais 🔥\nPourquoi un ordinateur chauffe, comment il se refroidit, et pourquoi la chaleur des Antilles complique son refroidissement. Image : un cuisinier dans une cuisine.\n📲 WhatsApp : lien en bio\n📍 Martinique\n\n#martinique #972 #astucetech #pcchauffe #vulgarisation",
-   "instagram": "Ton PC chauffe comme une plaque sous le soleil martiniquais 🔥\n\nPourquoi un ordinateur chauffe, comment il se refroidit, et pourquoi la chaleur des Antilles complique son refroidissement. Image : un cuisinier dans une cuisine.\n\n🔖 Enregistre ce post pour plus tard\n📲 WhatsApp : lien en bio\n📍 Martinique · 972\n\n#martinique #972 #informatique #pcchauffe #vulgarisation",
-   "facebook": "💻 ILOTECH\n\nTon PC chauffe comme une plaque sous le soleil martiniquais 🔥\n\nPourquoi un ordinateur chauffe, comment il se refroidit, et pourquoi la chaleur des Antilles complique son refroidissement. Image : un cuisinier dans une cuisine.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "youtube": "💻 ILOTECH\n\nTon PC chauffe comme une plaque sous le soleil martiniquais 🔥\n\nPourquoi un ordinateur chauffe, comment il se refroidit, et pourquoi la chaleur des Antilles complique son refroidissement. Image : un cuisinier dans une cuisine.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "yt_title": "Pourquoi ton PC chauffe #Shorts",
-   "ia": false
-  },
-  {
-   "id": "c-imprimante-diapo",
-   "kind": "video",
-   "fichiers": [
-    "videos/c-imprimante-diapo-9e464651.mp4"
-   ],
-   "sig": "9e464651",
-   "titre": "Imprimante en panne ? 4 vérifs avant de paniquer 🖨️",
-   "tiktok": "Imprimante en panne ? 4 vérifs avant de paniquer 🖨️\nSouvent, la solution prend 2 minutes.\n📲 WhatsApp : lien en bio\n📍 Martinique\n\n#martinique #972 #astucetech #imprimante #depannage",
-   "instagram": "Imprimante en panne ? 4 vérifs avant de paniquer 🖨️\n\nSouvent, la solution prend 2 minutes.\n\n🔖 Enregistre ce post pour plus tard\n📲 WhatsApp : lien en bio\n📍 Martinique · 972\n\n#martinique #972 #informatique #imprimante #depannage",
-   "facebook": "💻 ILOTECH\n\nImprimante en panne ? 4 vérifs avant de paniquer 🖨️\n\nSouvent, la solution prend 2 minutes.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "youtube": "💻 ILOTECH\n\nImprimante en panne ? 4 vérifs avant de paniquer 🖨️\n\nSouvent, la solution prend 2 minutes.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "yt_title": "Imprimante en panne ? 4 vérifs avant de paniquer 🖨️ #Shorts",
-   "ia": false
-  },
-  {
-   "id": "f-securite",
-   "kind": "video",
-   "fichiers": [
-    "videos/f-securite-7c11aedb.mp4"
-   ],
-   "sig": "7c11aedb",
-   "titre": "Virus, arnaques, comptes piratés",
-   "tiktok": "Virus, arnaque, compte piraté ? 🔒\nNettoyage des virus, sécurisation des comptes et des mots de passe, contrôle parental. Écris-nous sur WhatsApp.\n📲 WhatsApp : lien en bio\n📍 Martinique\n\n#martinique #972 #astucetech #cybersecurite #martinique",
-   "instagram": "Virus, arnaque, compte piraté ? 🔒\n\nNettoyage des virus, sécurisation des comptes et des mots de passe, contrôle parental. Écris-nous sur WhatsApp.\n\n🔖 Enregistre ce post pour plus tard\n📲 WhatsApp : lien en bio\n📍 Martinique · 972\n\n#martinique #972 #informatique #cybersecurite #martinique",
-   "facebook": "💻 ILOTECH\n\nVirus, arnaque, compte piraté ? 🔒\n\nNettoyage des virus, sécurisation des comptes et des mots de passe, contrôle parental. Écris-nous sur WhatsApp.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "youtube": "💻 ILOTECH\n\nVirus, arnaque, compte piraté ? 🔒\n\nNettoyage des virus, sécurisation des comptes et des mots de passe, contrôle parental. Écris-nous sur WhatsApp.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "yt_title": "Virus, arnaques, comptes piratés #Shorts",
-   "ia": false
-  },
-  {
-   "id": "v4-controle-parental",
-   "kind": "video",
-   "fichiers": [
-    "videos/v4-controle-parental-01873310.mp4"
-   ],
-   "sig": "01873310",
-   "titre": "Enfants et écrans : 4 réglages que chaque parent devrait faire 👨‍👩‍👧",
-   "tiktok": "Enfants et écrans : 4 réglages que chaque parent devrait faire 👨‍👩‍👧\nPas pour les surveiller en cachette : pour les protéger. Enregistre ce post.\n📲 WhatsApp : lien en bio\n📍 Martinique\n\n#martinique #972 #astucetech #controleparental #parents",
-   "instagram": "Enfants et écrans : 4 réglages que chaque parent devrait faire 👨‍👩‍👧\n\nPas pour les surveiller en cachette : pour les protéger. Enregistre ce post.\n\n🔖 Enregistre ce post pour plus tard\n📲 WhatsApp : lien en bio\n📍 Martinique · 972\n\n#martinique #972 #informatique #controleparental #parents",
-   "facebook": "💻 ILOTECH\n\nEnfants et écrans : 4 réglages que chaque parent devrait faire 👨‍👩‍👧\n\nPas pour les surveiller en cachette : pour les protéger. Enregistre ce post.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "youtube": "💻 ILOTECH\n\nEnfants et écrans : 4 réglages que chaque parent devrait faire 👨‍👩‍👧\n\nPas pour les surveiller en cachette : pour les protéger. Enregistre ce post.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "yt_title": "Enfants et écrans : 4 réglages que chaque parent devrait faire 👨‍👩‍👧 #Shorts",
-   "ia": false
-  },
-  {
-   "id": "vu-photo-binaire",
-   "kind": "video",
-   "fichiers": [
-    "videos/vu-photo-binaire-656bde2e.mp4"
-   ],
-   "sig": "656bde2e",
-   "titre": "Une photo, c'est des 0 et des 1",
-   "tiktok": "Ta photo de plage, au fond, c'est juste des 0 et des 1 🏖️\nComment une image devient une suite de nombres : pixels, couleurs et binaire, expliqués avec l'image d'un mur de carreaux de salle de bain.\n📲 WhatsApp : lien en bio\n📍 Martinique\n\n#martinique #972 #astucetech #binaire #vulgarisation",
-   "instagram": "Ta photo de plage, au fond, c'est juste des 0 et des 1 🏖️\n\nComment une image devient une suite de nombres : pixels, couleurs et binaire, expliqués avec l'image d'un mur de carreaux de salle de bain.\n\n🔖 Enregistre ce post pour plus tard\n📲 WhatsApp : lien en bio\n📍 Martinique · 972\n\n#martinique #972 #informatique #binaire #vulgarisation",
-   "facebook": "💻 ILOTECH\n\nTa photo de plage, au fond, c'est juste des 0 et des 1 🏖️\n\nComment une image devient une suite de nombres : pixels, couleurs et binaire, expliqués avec l'image d'un mur de carreaux de salle de bain.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "youtube": "💻 ILOTECH\n\nTa photo de plage, au fond, c'est juste des 0 et des 1 🏖️\n\nComment une image devient une suite de nombres : pixels, couleurs et binaire, expliqués avec l'image d'un mur de carreaux de salle de bain.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "yt_title": "Une photo, c'est des 0 et des 1 #Shorts",
-   "ia": false
-  },
-  {
-   "id": "c-mdp-diapo",
-   "kind": "video",
-   "fichiers": [
-    "videos/c-mdp-diapo-104e24ea.mp4"
-   ],
-   "sig": "104e24ea",
-   "titre": "Ton mot de passe est-il nul ? 5 règles simples 🔐",
-   "tiktok": "Ton mot de passe est-il nul ? 5 règles simples 🔐\n« 123456 » et « azerty » sont encore parmi les plus utilisés… Teste-toi.\n📲 WhatsApp : lien en bio\n📍 Martinique\n\n#martinique #972 #astucetech #motdepasse #cybersecurite",
-   "instagram": "Ton mot de passe est-il nul ? 5 règles simples 🔐\n\n« 123456 » et « azerty » sont encore parmi les plus utilisés… Teste-toi.\n\n🔖 Enregistre ce post pour plus tard\n📲 WhatsApp : lien en bio\n📍 Martinique · 972\n\n#martinique #972 #informatique #motdepasse #cybersecurite",
-   "facebook": "💻 ILOTECH\n\nTon mot de passe est-il nul ? 5 règles simples 🔐\n\n« 123456 » et « azerty » sont encore parmi les plus utilisés… Teste-toi.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "youtube": "💻 ILOTECH\n\nTon mot de passe est-il nul ? 5 règles simples 🔐\n\n« 123456 » et « azerty » sont encore parmi les plus utilisés… Teste-toi.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "yt_title": "Ton mot de passe est-il nul ? 5 règles simples 🔐 #Shorts",
-   "ia": false
-  },
-  {
    "id": "f-wifi",
    "kind": "video",
    "fichiers": [
@@ -448,26 +358,6 @@
    "facebook": "💻 ILOTECH\n\nTa nouvelle TV a une image bizarre ? 5 réglages à faire 📺\n\nEffet « feuilleton », couleurs criardes, son faible : ça se règle en 10 minutes.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
    "youtube": "💻 ILOTECH\n\nTa nouvelle TV a une image bizarre ? 5 réglages à faire 📺\n\nEffet « feuilleton », couleurs criardes, son faible : ça se règle en 10 minutes.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
    "yt_title": "Ta nouvelle TV a une image bizarre ? 5 réglages à faire 📺 #Shorts",
-   "ia": false
-  },
-  {
-   "id": "t-teletravail",
-   "kind": "images",
-   "fichiers": [
-    "images/t-teletravail-1a5a4cf9/01.jpg",
-    "images/t-teletravail-1a5a4cf9/02.jpg",
-    "images/t-teletravail-1a5a4cf9/03.jpg",
-    "images/t-teletravail-1a5a4cf9/04.jpg",
-    "images/t-teletravail-1a5a4cf9/05.jpg",
-    "images/t-teletravail-1a5a4cf9/06.jpg"
-   ],
-   "sig": "1a5a4cf9",
-   "titre": "Télétravail : le kit pour bosser sans galérer 🏠💻",
-   "tiktok": "Télétravail : le kit pour bosser sans galérer 🏠💻\nConnexion stable, bonne image en visio, poignet préservé : voici l'essentiel.\n📲 WhatsApp : lien en bio\n📍 Martinique\n\n#martinique #972 #astucetech #teletravail #bureau",
-   "instagram": "Télétravail : le kit pour bosser sans galérer 🏠💻\n\nConnexion stable, bonne image en visio, poignet préservé : voici l'essentiel.\n\n🔖 Enregistre ce post pour plus tard\n📲 WhatsApp : lien en bio\n📍 Martinique · 972\n\n#martinique #972 #informatique #teletravail #bureau",
-   "facebook": "💻 ILOTECH\n\nTélétravail : le kit pour bosser sans galérer 🏠💻\n\nConnexion stable, bonne image en visio, poignet préservé : voici l'essentiel.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "youtube": "💻 ILOTECH\n\nTélétravail : le kit pour bosser sans galérer 🏠💻\n\nConnexion stable, bonne image en visio, poignet préservé : voici l'essentiel.\n\n📲 Écris-nous sur WhatsApp : https://wa.me/qr/5Z76NB6T7IRNA1\n📍 Martinique • Antilles\n\n#Martinique #Informatique #IloTech",
-   "yt_title": "Télétravail : le kit pour bosser sans galérer 🏠💻 #Shorts",
    "ia": false
   },
   {
