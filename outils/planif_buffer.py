@@ -180,7 +180,7 @@ def post_story(c, it, due, urls):
     else:
         a = [{"video": {"url": urls[0]}}]
     inp = {"channelId": c["id"], "text": text_for(c["service"], it), "schedulingType": "automatic",
-           "mode": "customScheduled", "dueAt": due, "assets": a, "metadata": {c["service"]: {"type": "story"}}}
+           "mode": "customScheduled", "dueAt": due, "assets": a, "metadata": {c["service"]: dict({"type": "story"}, **({"shouldShareToFeed": False} if c["service"] == "instagram" else {}))}}
     r = gql(MUTATION, {"input": inp})["createPost"]
     if "message" in r:
         raise RuntimeError(f"{c['service']} story : {r['message']}")
@@ -265,8 +265,11 @@ def remplir(essai=False, limite=None):
                 log(f"OK Buffer {it['id']} → {c['service']} le {when:%d/%m %H:%M}")
                 if stories_pour(c, it):
                     quand = when + dt.timedelta(minutes=5)
-                    done[c["id"] + ":story"] = post_story(c, it, utc(quand), liens(it))
-                    log(f"OK Buffer {it['id']} → {c['service']} story le {quand:%d/%m %H:%M}")
+                    try:  # une story refusée ne doit pas bloquer la publication principale
+                        done[c["id"] + ":story"] = post_story(c, it, utc(quand), liens(it))
+                        log(f"OK Buffer {it['id']} → {c['service']} story le {quand:%d/%m %H:%M}")
+                    except Exception as e:
+                        log(f"STORY IGNORÉE {it['id']} → {c['service']} : {e}")
             for cid, k in besoin.items():
                 pending[cid] += k
             etat["posts"][it["id"]] = {"date": when.isoformat(), "canaux": done}
