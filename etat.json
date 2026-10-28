@@ -766,6 +766,42 @@
     "6ac823306a5c39ccb65921b2": "6ae18e7bb1bf2d292db87f3b",
     "6ac823306a5c39ccb65921b2:story": "6ae18e7b1aac2b225f7f0c26"
    }
+  },
+  "t-maman-numero": {
+   "date": "2026-10-28T16:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae226abc867e35d50ba7268",
+    "6ac8472a6a5c39ccb65aad3d": "6ae226ac506fff4c6330b3b5",
+    "6ac823306a5c39ccb65921b2": "6ae226aca557fadd216905b5",
+    "6ac823306a5c39ccb65921b2:story": "6ae226ad506fff4c6330b3f0"
+   }
+  },
+  "v4-sauvegarde-tel": {
+   "date": "2026-10-28T19:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae226aebf52775abae18f2b",
+    "6ac8472a6a5c39ccb65aad3d": "6ae226ae296935229999f8e2",
+    "6ac823306a5c39ccb65921b2": "6ae226af296935229999f91b",
+    "6ac823306a5c39ccb65921b2:story": "6ae226afc867e35d50ba7391"
+   }
+  },
+  "c-orages-diapo": {
+   "date": "2026-10-29T06:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae226b1296935229999f972",
+    "6ac8472a6a5c39ccb65aad3d": "6ae226b1a557fadd216906c2",
+    "6ac823306a5c39ccb65921b2": "6ae226b2ac0d79d7033ecbf0",
+    "6ac823306a5c39ccb65921b2:story": "6ae226b3bf52775abae1922b"
+   }
+  },
+  "t-on-m-appelle": {
+   "date": "2026-10-29T08:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae226b4a557fadd21690738",
+    "6ac8472a6a5c39ccb65aad3d": "6ae226b4506fff4c6330b598",
+    "6ac823306a5c39ccb65921b2": "6ae226b5c867e35d50ba7493",
+    "6ac823306a5c39ccb65921b2:story": "6ae226b5c867e35d50ba74df"
+   }
   }
  }
 }
