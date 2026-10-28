@@ -721,6 +721,51 @@
     "6ac8472a6a5c39ccb65aad3d": "6add4c658b3d437ddce48369",
     "6ac823306a5c39ccb65921b2": "6add4c653d5b27036bac219b"
    }
+  },
+  "pa-tele-pubs": {
+   "date": "2026-10-28T06:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae18e6f1b33b85d1be6af08",
+    "6ac8472a6a5c39ccb65aad3d": "6ae18e6f56ec3750d2565122",
+    "6ac823306a5c39ccb65921b2": "6ae18e70b1bf2d292db86fe4",
+    "6ac823306a5c39ccb65921b2:story": "6ae18e71204613d2f1460c83"
+   }
+  },
+  "f-tele": {
+   "date": "2026-10-28T08:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae18e721aac2b225f7f060f",
+    "6ac8472a6a5c39ccb65aad3d": "6ae18e73a48463c227584e55",
+    "6ac823306a5c39ccb65921b2": "6ae18e731aac2b225f7f07d2",
+    "6ac823306a5c39ccb65921b2:story": "6ae18e74a48463c227585180"
+   }
+  },
+  "c-mises-a-jour-diapo": {
+   "date": "2026-10-28T10:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae18e741b33b85d1be6b303",
+    "6ac8472a6a5c39ccb65aad3d": "6ae18e75204613d2f1460d39",
+    "6ac823306a5c39ccb65921b2": "6ae18e76b1bf2d292db87d72",
+    "6ac823306a5c39ccb65921b2:story": "6ae18e761aac2b225f7f0853"
+   }
+  },
+  "v4-montage-pc": {
+   "date": "2026-10-28T12:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae18e7756ec3750d2565283",
+    "6ac8472a6a5c39ccb65aad3d": "6ae18e78204613d2f1460f8b",
+    "6ac823306a5c39ccb65921b2": "6ae18e78b1bf2d292db87ed1",
+    "6ac823306a5c39ccb65921b2:story": "6ae18e7956ec3750d2565310"
+   }
+  },
+  "c-nouveau-pc-diapo": {
+   "date": "2026-10-28T14:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae18e7a1aac2b225f7f0bdc",
+    "6ac8472a6a5c39ccb65aad3d": "6ae18e7ab1bf2d292db87f09",
+    "6ac823306a5c39ccb65921b2": "6ae18e7bb1bf2d292db87f3b",
+    "6ac823306a5c39ccb65921b2:story": "6ae18e7b1aac2b225f7f0c26"
+   }
   }
  }
 }
