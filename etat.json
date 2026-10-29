@@ -802,6 +802,33 @@
     "6ac823306a5c39ccb65921b2": "6ae226b5c867e35d50ba7493",
     "6ac823306a5c39ccb65921b2:story": "6ae226b5c867e35d50ba74df"
    }
+  },
+  "v4-vf-cyber": {
+   "date": "2026-10-29T10:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae2a71542598d490d7b8140",
+    "6ac8472a6a5c39ccb65aad3d": "6ae2a715411377cb91aefd96",
+    "6ac823306a5c39ccb65921b2": "6ae2a716cc91be5434c04541",
+    "6ac823306a5c39ccb65921b2:story": "6ae2a71604f348da400414c8"
+   }
+  },
+  "c-pc-lent-diapo": {
+   "date": "2026-10-29T12:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae2a7177d94db46db2c10a1",
+    "6ac8472a6a5c39ccb65aad3d": "6ae2a71804f348da4004151e",
+    "6ac823306a5c39ccb65921b2": "6ae2a718411377cb91aefdec",
+    "6ac823306a5c39ccb65921b2:story": "6ae2a7197a72c9efac0f2f9e"
+   }
+  },
+  "t-parents": {
+   "date": "2026-10-29T14:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae2a7197a72c9efac0f2fca",
+    "6ac8472a6a5c39ccb65aad3d": "6ae2a71a7a72c9efac0f3017",
+    "6ac823306a5c39ccb65921b2": "6ae2a71a04f348da40041592",
+    "6ac823306a5c39ccb65921b2:story": "6ae2a71b411377cb91aefe7a"
+   }
   }
  }
 }

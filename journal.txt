@@ -159,3 +159,15 @@
 2026-10-28 12:45:40  OK Buffer t-on-m-appelle → tiktok le 29/10 08:00
 2026-10-28 12:45:41  OK Buffer t-on-m-appelle → instagram le 29/10 08:00
 2026-10-28 12:45:41  OK Buffer t-on-m-appelle → instagram story le 29/10 08:05
+2026-10-28 21:53:25  OK Buffer v4-vf-cyber → youtube le 29/10 10:00
+2026-10-28 21:53:25  OK Buffer v4-vf-cyber → tiktok le 29/10 10:00
+2026-10-28 21:53:26  OK Buffer v4-vf-cyber → instagram le 29/10 10:00
+2026-10-28 21:53:27  OK Buffer v4-vf-cyber → instagram story le 29/10 10:05
+2026-10-28 21:53:27  OK Buffer c-pc-lent-diapo → youtube le 29/10 12:00
+2026-10-28 21:53:28  OK Buffer c-pc-lent-diapo → tiktok le 29/10 12:00
+2026-10-28 21:53:28  OK Buffer c-pc-lent-diapo → instagram le 29/10 12:00
+2026-10-28 21:53:29  OK Buffer c-pc-lent-diapo → instagram story le 29/10 12:05
+2026-10-28 21:53:29  OK Buffer t-parents → youtube le 29/10 14:00
+2026-10-28 21:53:30  OK Buffer t-parents → tiktok le 29/10 14:00
+2026-10-28 21:53:30  OK Buffer t-parents → instagram le 29/10 14:00
+2026-10-28 21:53:31  OK Buffer t-parents → instagram story le 29/10 14:05
