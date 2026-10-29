@@ -171,3 +171,19 @@
 2026-10-28 21:53:30  OK Buffer t-parents → tiktok le 29/10 14:00
 2026-10-28 21:53:30  OK Buffer t-parents → instagram le 29/10 14:00
 2026-10-28 21:53:31  OK Buffer t-parents → instagram story le 29/10 14:05
+2026-10-29 13:01:48  OK Buffer v4-vf-donnees → youtube le 29/10 16:00
+2026-10-29 13:01:49  OK Buffer v4-vf-donnees → tiktok le 29/10 16:00
+2026-10-29 13:01:49  OK Buffer v4-vf-donnees → instagram le 29/10 16:00
+2026-10-29 13:01:50  OK Buffer v4-vf-donnees → instagram story le 29/10 16:05
+2026-10-29 13:01:51  OK Buffer c-wifi-box-diapo → youtube le 29/10 19:00
+2026-10-29 13:01:52  OK Buffer c-wifi-box-diapo → tiktok le 29/10 19:00
+2026-10-29 13:01:52  OK Buffer c-wifi-box-diapo → instagram le 29/10 19:00
+2026-10-29 13:01:53  OK Buffer c-wifi-box-diapo → instagram story le 29/10 19:05
+2026-10-29 13:01:54  OK Buffer t-pc-gamer → youtube le 30/10 06:00
+2026-10-29 13:01:54  OK Buffer t-pc-gamer → tiktok le 30/10 06:00
+2026-10-29 13:01:55  OK Buffer t-pc-gamer → instagram le 30/10 06:00
+2026-10-29 13:01:55  OK Buffer t-pc-gamer → instagram story le 30/10 06:05
+2026-10-29 13:01:56  OK Buffer v4-vf-tv-console → youtube le 30/10 08:00
+2026-10-29 13:01:57  OK Buffer v4-vf-tv-console → tiktok le 30/10 08:00
+2026-10-29 13:01:58  OK Buffer v4-vf-tv-console → instagram le 30/10 08:00
+2026-10-29 13:01:58  OK Buffer v4-vf-tv-console → instagram story le 30/10 08:05

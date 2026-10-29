@@ -829,6 +829,42 @@
     "6ac823306a5c39ccb65921b2": "6ae2a71a04f348da40041592",
     "6ac823306a5c39ccb65921b2:story": "6ae2a71b411377cb91aefe7a"
    }
+  },
+  "v4-vf-donnees": {
+   "date": "2026-10-29T16:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae37bfcd0477c3f9f6c25c0",
+    "6ac8472a6a5c39ccb65aad3d": "6ae37bfdd0477c3f9f6c264e",
+    "6ac823306a5c39ccb65921b2": "6ae37bfdd0477c3f9f6c26dc",
+    "6ac823306a5c39ccb65921b2:story": "6ae37bfee21785fad76a14b3"
+   }
+  },
+  "c-wifi-box-diapo": {
+   "date": "2026-10-29T19:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae37bff145e9f24d457b823",
+    "6ac8472a6a5c39ccb65aad3d": "6ae37bff3361c982e45d54af",
+    "6ac823306a5c39ccb65921b2": "6ae37c00145e9f24d457b957",
+    "6ac823306a5c39ccb65921b2:story": "6ae37c01a23f0986fe05b70e"
+   }
+  },
+  "t-pc-gamer": {
+   "date": "2026-10-30T06:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae37c02e21785fad76a16a9",
+    "6ac8472a6a5c39ccb65aad3d": "6ae37c023361c982e45d5664",
+    "6ac823306a5c39ccb65921b2": "6ae37c03e21785fad76a17bd",
+    "6ac823306a5c39ccb65921b2:story": "6ae37c033361c982e45d56e5"
+   }
+  },
+  "v4-vf-tv-console": {
+   "date": "2026-10-30T08:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae37c04d0477c3f9f6c2c93",
+    "6ac8472a6a5c39ccb65aad3d": "6ae37c05145e9f24d457bc30",
+    "6ac823306a5c39ccb65921b2": "6ae37c05145e9f24d457beab",
+    "6ac823306a5c39ccb65921b2:story": "6ae37c06a23f0986fe05bcb5"
+   }
   }
  }
 }
