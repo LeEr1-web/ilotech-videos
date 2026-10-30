@@ -865,6 +865,33 @@
     "6ac823306a5c39ccb65921b2": "6ae37c05145e9f24d457beab",
     "6ac823306a5c39ccb65921b2:story": "6ae37c06a23f0986fe05bcb5"
    }
+  },
+  "c4-cyber-tpe-diapo": {
+   "date": "2026-10-30T10:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae3faeea83a7fb63c8c1605",
+    "6ac8472a6a5c39ccb65aad3d": "6ae3faee4b8768bfb2d48361",
+    "6ac823306a5c39ccb65921b2": "6ae3faef4b8768bfb2d4838f",
+    "6ac823306a5c39ccb65921b2:story": "6ae3faefba1ca51fd3ed75cc"
+   }
+  },
+  "v4-wifi-terrasse": {
+   "date": "2026-10-30T12:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae3faf06385db216a1cb381",
+    "6ac8472a6a5c39ccb65aad3d": "6ae3faf02782e7f331c8938d",
+    "6ac823306a5c39ccb65921b2": "6ae3faf1a83a7fb63c8c1700",
+    "6ac823306a5c39ccb65921b2:story": "6ae3faf24b8768bfb2d48434"
+   }
+  },
+  "c4-reseau-pro-diapo": {
+   "date": "2026-10-30T14:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae3faf2a83a7fb63c8c17a5",
+    "6ac8472a6a5c39ccb65aad3d": "6ae3faf3ba1ca51fd3ed76fa",
+    "6ac823306a5c39ccb65921b2": "6ae3faf32782e7f331c895fc",
+    "6ac823306a5c39ccb65921b2:story": "6ae3faf456e01b97637f6ecb"
+   }
   }
  }
 }
