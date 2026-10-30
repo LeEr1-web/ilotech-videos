@@ -892,6 +892,42 @@
     "6ac823306a5c39ccb65921b2": "6ae3faf32782e7f331c895fc",
     "6ac823306a5c39ccb65921b2:story": "6ae3faf456e01b97637f6ecb"
    }
+  },
+  "t-sans-me-dire": {
+   "date": "2026-10-30T16:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae4c9dd98505e7f5221fb40",
+    "6ac8472a6a5c39ccb65aad3d": "6ae4c9dea351214acf9a00b7",
+    "6ac823306a5c39ccb65921b2": "6ae4c9de98505e7f5221fb8c",
+    "6ac823306a5c39ccb65921b2:story": "6ae4c9dfcd8290b9b9ff0462"
+   }
+  },
+  "c4-revendre-diapo": {
+   "date": "2026-10-30T19:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae4c9df260ad0ee5bb9e4ff",
+    "6ac8472a6a5c39ccb65aad3d": "6ae4c9e0a351214acf9a0138",
+    "6ac823306a5c39ccb65921b2": "6ae4c9e098505e7f5221fc23",
+    "6ac823306a5c39ccb65921b2:story": "6ae4c9e110a950f137321952"
+   }
+  },
+  "t-telephone-plein": {
+   "date": "2026-10-31T06:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae4c9e1260ad0ee5bb9e53e",
+    "6ac8472a6a5c39ccb65aad3d": "6ae4c9e12a4d923bf40c246f",
+    "6ac823306a5c39ccb65921b2": "6ae4c9e2260ad0ee5bb9e5ab",
+    "6ac823306a5c39ccb65921b2:story": "6ae4c9e2a351214acf9a01f8"
+   }
+  },
+  "c4-smart-tv-diapo": {
+   "date": "2026-10-31T08:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae4c9e32a4d923bf40c24ce",
+    "6ac8472a6a5c39ccb65aad3d": "6ae4c9e398505e7f5221fd0d",
+    "6ac823306a5c39ccb65921b2": "6ae4c9e498505e7f5221fd45",
+    "6ac823306a5c39ccb65921b2:story": "6ae4c9e4a351214acf9a026b"
+   }
   }
  }
 }

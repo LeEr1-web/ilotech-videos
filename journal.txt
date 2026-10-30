@@ -199,3 +199,19 @@
 2026-10-29 22:03:31  OK Buffer c4-reseau-pro-diapo → tiktok le 30/10 14:00
 2026-10-29 22:03:31  OK Buffer c4-reseau-pro-diapo → instagram le 30/10 14:00
 2026-10-29 22:03:32  OK Buffer c4-reseau-pro-diapo → instagram story le 30/10 14:05
+2026-10-30 12:46:21  OK Buffer t-sans-me-dire → youtube le 30/10 16:00
+2026-10-30 12:46:22  OK Buffer t-sans-me-dire → tiktok le 30/10 16:00
+2026-10-30 12:46:22  OK Buffer t-sans-me-dire → instagram le 30/10 16:00
+2026-10-30 12:46:23  OK Buffer t-sans-me-dire → instagram story le 30/10 16:05
+2026-10-30 12:46:23  OK Buffer c4-revendre-diapo → youtube le 30/10 19:00
+2026-10-30 12:46:24  OK Buffer c4-revendre-diapo → tiktok le 30/10 19:00
+2026-10-30 12:46:24  OK Buffer c4-revendre-diapo → instagram le 30/10 19:00
+2026-10-30 12:46:25  OK Buffer c4-revendre-diapo → instagram story le 30/10 19:05
+2026-10-30 12:46:25  OK Buffer t-telephone-plein → youtube le 31/10 06:00
+2026-10-30 12:46:26  OK Buffer t-telephone-plein → tiktok le 31/10 06:00
+2026-10-30 12:46:26  OK Buffer t-telephone-plein → instagram le 31/10 06:00
+2026-10-30 12:46:26  OK Buffer t-telephone-plein → instagram story le 31/10 06:05
+2026-10-30 12:46:27  OK Buffer c4-smart-tv-diapo → youtube le 31/10 08:00
+2026-10-30 12:46:27  OK Buffer c4-smart-tv-diapo → tiktok le 31/10 08:00
+2026-10-30 12:46:28  OK Buffer c4-smart-tv-diapo → instagram le 31/10 08:00
+2026-10-30 12:46:28  OK Buffer c4-smart-tv-diapo → instagram story le 31/10 08:05
