@@ -928,6 +928,33 @@
     "6ac823306a5c39ccb65921b2": "6ae4c9e498505e7f5221fd45",
     "6ac823306a5c39ccb65921b2:story": "6ae4c9e4a351214acf9a026b"
    }
+  },
+  "t-association-diapo": {
+   "date": "2026-10-31T10:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae547baa1145743497d7741",
+    "6ac8472a6a5c39ccb65aad3d": "6ae547bbb84259308bb08687",
+    "6ac823306a5c39ccb65921b2": "6ae547bb406ab8a018925b32",
+    "6ac823306a5c39ccb65921b2:story": "6ae547bc1891472093aa6098"
+   }
+  },
+  "t-wifi-invites": {
+   "date": "2026-10-31T12:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae547bdb84259308bb086d0",
+    "6ac8472a6a5c39ccb65aad3d": "6ae547bd1891472093aa60cd",
+    "6ac823306a5c39ccb65921b2": "6ae547be406ab8a018925ba1",
+    "6ac823306a5c39ccb65921b2:story": "6ae547bea1145743497d77c0"
+   }
+  },
+  "t-black-friday-diapo": {
+   "date": "2026-10-31T14:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae547bfb84259308bb08722",
+    "6ac8472a6a5c39ccb65aad3d": "6ae547bfa1145743497d781d",
+    "6ac823306a5c39ccb65921b2": "6ae547c0ceb491e585cfb1ef",
+    "6ac823306a5c39ccb65921b2:story": "6ae547c0b84259308bb08760"
+   }
   }
  }
 }
