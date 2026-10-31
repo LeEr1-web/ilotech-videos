@@ -228,3 +228,12 @@
 2026-10-30 21:43:28  OK Buffer t-black-friday-diapo → tiktok le 31/10 14:00
 2026-10-30 21:43:28  OK Buffer t-black-friday-diapo → instagram le 31/10 14:00
 2026-10-30 21:43:28  OK Buffer t-black-friday-diapo → instagram story le 31/10 14:05
+2026-10-31 11:49:27  ATTENTION : plus que 2 contenus en ligne en réserve, il faut allumer le PC (fabrique + réserve)
+2026-10-31 11:49:31  OK Buffer t-etudiant-diapo → youtube le 31/10 16:00
+2026-10-31 11:49:31  OK Buffer t-etudiant-diapo → tiktok le 31/10 16:00
+2026-10-31 11:49:31  OK Buffer t-etudiant-diapo → instagram le 31/10 16:00
+2026-10-31 11:49:32  OK Buffer t-etudiant-diapo → instagram story le 31/10 16:05
+2026-10-31 11:49:32  OK Buffer t-teletravail-diapo → youtube le 31/10 19:00
+2026-10-31 11:49:32  OK Buffer t-teletravail-diapo → tiktok le 31/10 19:00
+2026-10-31 11:49:33  OK Buffer t-teletravail-diapo → instagram le 31/10 19:00
+2026-10-31 11:49:33  OK Buffer t-teletravail-diapo → instagram story le 31/10 19:05

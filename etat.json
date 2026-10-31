@@ -955,6 +955,24 @@
     "6ac823306a5c39ccb65921b2": "6ae547c0ceb491e585cfb1ef",
     "6ac823306a5c39ccb65921b2:story": "6ae547c0b84259308bb08760"
    }
+  },
+  "t-etudiant-diapo": {
+   "date": "2026-10-31T16:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae60e0af0984eef33195f60",
+    "6ac8472a6a5c39ccb65aad3d": "6ae60e0b21c807e9d5700b08",
+    "6ac823306a5c39ccb65921b2": "6ae60e0b1ee172cd6dad07dc",
+    "6ac823306a5c39ccb65921b2:story": "6ae60e0b37c1acd2a0b8df1b"
+   }
+  },
+  "t-teletravail-diapo": {
+   "date": "2026-10-31T19:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6ae60e0c37c1acd2a0b8df47",
+    "6ac8472a6a5c39ccb65aad3d": "6ae60e0c37c1acd2a0b8df7d",
+    "6ac823306a5c39ccb65921b2": "6ae60e0dab019b90870f3c25",
+    "6ac823306a5c39ccb65921b2:story": "6ae60e0dcf3a3112f3ae33dd"
+   }
   }
  }
 }
