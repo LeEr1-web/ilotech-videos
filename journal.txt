@@ -268,3 +268,23 @@
 2026-11-14 22:00:31  Buffer : file pleine ou plus rien à programmer (0 contenus en ligne en réserve)
 2026-11-15 13:20:29  Buffer : file pleine ou plus rien à programmer (0 contenus en ligne en réserve)
 2026-11-15 22:17:08  Buffer : file pleine ou plus rien à programmer (0 contenus en ligne en réserve)
+2026-11-16 16:37:50  OK Buffer anno-it-cours-mdp → youtube le 16/11 19:00
+2026-11-16 16:37:51  OK Buffer anno-it-cours-mdp → tiktok le 16/11 19:00
+2026-11-16 16:37:51  OK Buffer anno-it-cours-mdp → instagram le 16/11 19:00
+2026-11-16 16:37:52  OK Buffer anno-it-cours-mdp → instagram story le 16/11 19:05
+2026-11-16 16:37:52  OK Buffer anno-it-cours-mdp-slides → tiktok le 17/11 06:00
+2026-11-16 16:37:53  OK Buffer anno-it-cours-mdp-slides → instagram le 17/11 06:00
+2026-11-16 16:37:54  OK Buffer st-batterie-vide → youtube le 17/11 08:00
+2026-11-16 16:37:54  OK Buffer st-batterie-vide → tiktok le 17/11 08:00
+2026-11-16 16:37:55  OK Buffer st-batterie-vide → instagram le 17/11 08:00
+2026-11-16 16:37:55  OK Buffer st-batterie-vide → instagram story le 17/11 08:05
+2026-11-16 16:37:56  OK Buffer anno-it-entreprises-slides → tiktok le 17/11 10:00
+2026-11-16 16:37:56  OK Buffer anno-it-entreprises-slides → instagram le 17/11 10:00
+2026-11-16 16:37:57  OK Buffer st-drone-immo → youtube le 17/11 12:00
+2026-11-16 16:37:57  OK Buffer st-drone-immo → tiktok le 17/11 12:00
+2026-11-16 16:37:58  OK Buffer st-drone-immo → instagram le 17/11 12:00
+2026-11-16 16:37:58  OK Buffer st-drone-immo → instagram story le 17/11 12:05
+2026-11-16 16:37:59  OK Buffer anno-it-entreprises → youtube le 17/11 14:00
+2026-11-16 16:38:00  OK Buffer anno-it-entreprises → tiktok le 17/11 14:00
+2026-11-16 16:38:00  OK Buffer anno-it-entreprises → instagram le 17/11 14:00
+2026-11-16 16:38:01  OK Buffer anno-it-entreprises → instagram story le 17/11 14:05

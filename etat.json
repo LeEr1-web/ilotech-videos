@@ -973,6 +973,56 @@
     "6ac823306a5c39ccb65921b2": "6ae60e0dab019b90870f3c25",
     "6ac823306a5c39ccb65921b2:story": "6ae60e0dcf3a3112f3ae33dd"
    }
+  },
+  "anno-it-cours-mdp": {
+   "date": "2026-11-16T19:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6afb699e710e22a9c7bbd15c",
+    "6ac8472a6a5c39ccb65aad3d": "6afb699f9c7c07cbc8501fec",
+    "6ac823306a5c39ccb65921b2": "6afb699fe9e30bcd5a8be88d",
+    "6ac823306a5c39ccb65921b2:story": "6afb69a03e6202be8788fca5"
+   }
+  },
+  "anno-it-cours-mdp-slides": {
+   "date": "2026-11-17T06:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6afb69a03e6202be8788fce5",
+    "6ac823306a5c39ccb65921b2": "6afb69a13e6202be8788fd22"
+   }
+  },
+  "st-batterie-vide": {
+   "date": "2026-11-17T08:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6afb69a13e6202be8788fd5a",
+    "6ac8472a6a5c39ccb65aad3d": "6afb69a23e6202be8788fd94",
+    "6ac823306a5c39ccb65921b2": "6afb69a33509d4c5b881c492",
+    "6ac823306a5c39ccb65921b2:story": "6afb69a39c7c07cbc85021d6"
+   }
+  },
+  "anno-it-entreprises-slides": {
+   "date": "2026-11-17T10:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6afb69a43509d4c5b881c507",
+    "6ac823306a5c39ccb65921b2": "6afb69a45c671a37dd5b3225"
+   }
+  },
+  "st-drone-immo": {
+   "date": "2026-11-17T12:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6afb69a53509d4c5b881c57f",
+    "6ac8472a6a5c39ccb65aad3d": "6afb69a5e9e30bcd5a8bea2c",
+    "6ac823306a5c39ccb65921b2": "6afb69a65c671a37dd5b32ba",
+    "6ac823306a5c39ccb65921b2:story": "6afb69a65c671a37dd5b32e3"
+   }
+  },
+  "anno-it-entreprises": {
+   "date": "2026-11-17T14:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6afb69a79c7c07cbc85022de",
+    "6ac8472a6a5c39ccb65aad3d": "6afb69a79c7c07cbc8502320",
+    "6ac823306a5c39ccb65921b2": "6afb69a85c671a37dd5b3373",
+    "6ac823306a5c39ccb65921b2:story": "6afb69a9710e22a9c7bbd494"
+   }
   }
  }
 }
