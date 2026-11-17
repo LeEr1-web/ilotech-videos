@@ -1023,6 +1023,15 @@
     "6ac823306a5c39ccb65921b2": "6afb69a85c671a37dd5b3373",
     "6ac823306a5c39ccb65921b2:story": "6afb69a9710e22a9c7bbd494"
    }
+  },
+  "st-maison-connectee": {
+   "date": "2026-11-17T16:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6afbdaa04b26315855bfd09f",
+    "6ac8472a6a5c39ccb65aad3d": "6afbdaa04b26315855bfd0e6",
+    "6ac823306a5c39ccb65921b2": "6afbdaa14b26315855bfd145",
+    "6ac823306a5c39ccb65921b2:story": "6afbdaa2f83aaca8f3ac75df"
+   }
   }
  }
 }

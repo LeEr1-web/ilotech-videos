@@ -288,3 +288,7 @@
 2026-11-16 16:38:00  OK Buffer anno-it-entreprises → tiktok le 17/11 14:00
 2026-11-16 16:38:00  OK Buffer anno-it-entreprises → instagram le 17/11 14:00
 2026-11-16 16:38:01  OK Buffer anno-it-entreprises → instagram story le 17/11 14:05
+2026-11-17 00:40:00  OK Buffer st-maison-connectee → youtube le 17/11 16:00
+2026-11-17 00:40:00  OK Buffer st-maison-connectee → tiktok le 17/11 16:00
+2026-11-17 00:40:01  OK Buffer st-maison-connectee → instagram le 17/11 16:00
+2026-11-17 00:40:02  OK Buffer st-maison-connectee → instagram story le 17/11 16:05
