@@ -292,3 +292,19 @@
 2026-11-17 00:40:00  OK Buffer st-maison-connectee → tiktok le 17/11 16:00
 2026-11-17 00:40:01  OK Buffer st-maison-connectee → instagram le 17/11 16:00
 2026-11-17 00:40:02  OK Buffer st-maison-connectee → instagram story le 17/11 16:05
+2026-11-17 15:16:18  OK Buffer st-pc-avion → youtube le 17/11 19:00
+2026-11-17 15:16:18  OK Buffer st-pc-avion → tiktok le 17/11 19:00
+2026-11-17 15:16:19  OK Buffer st-pc-avion → instagram le 17/11 19:00
+2026-11-17 15:16:19  OK Buffer st-pc-avion → instagram story le 17/11 19:05
+2026-11-17 15:16:20  OK Buffer anno-it-informatique → youtube le 18/11 06:00
+2026-11-17 15:16:20  OK Buffer anno-it-informatique → tiktok le 18/11 06:00
+2026-11-17 15:16:21  OK Buffer anno-it-informatique → instagram le 18/11 06:00
+2026-11-17 15:16:21  OK Buffer anno-it-informatique → instagram story le 18/11 06:05
+2026-11-17 15:16:22  OK Buffer st-services-ilotech → youtube le 18/11 08:00
+2026-11-17 15:16:23  OK Buffer st-services-ilotech → tiktok le 18/11 08:00
+2026-11-17 15:16:24  OK Buffer st-services-ilotech → instagram le 18/11 08:00
+2026-11-17 15:16:24  OK Buffer st-services-ilotech → instagram story le 18/11 08:05
+2026-11-17 15:16:25  OK Buffer anno-it-onduleur → youtube le 18/11 10:00
+2026-11-17 15:16:25  OK Buffer anno-it-onduleur → tiktok le 18/11 10:00
+2026-11-17 15:16:26  OK Buffer anno-it-onduleur → instagram le 18/11 10:00
+2026-11-17 15:16:26  OK Buffer anno-it-onduleur → instagram story le 18/11 10:05

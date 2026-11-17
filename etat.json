@@ -1032,6 +1032,42 @@
     "6ac823306a5c39ccb65921b2": "6afbdaa14b26315855bfd145",
     "6ac823306a5c39ccb65921b2:story": "6afbdaa2f83aaca8f3ac75df"
    }
+  },
+  "st-pc-avion": {
+   "date": "2026-11-17T19:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6afca802f7b04ce25b567c0d",
+    "6ac8472a6a5c39ccb65aad3d": "6afca802f7b04ce25b567c4b",
+    "6ac823306a5c39ccb65921b2": "6afca8039c73f3089bb12839",
+    "6ac823306a5c39ccb65921b2:story": "6afca803f7b04ce25b5681e5"
+   }
+  },
+  "anno-it-informatique": {
+   "date": "2026-11-18T06:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6afca8046128798257e8ffcd",
+    "6ac8472a6a5c39ccb65aad3d": "6afca804dfd7767b00737452",
+    "6ac823306a5c39ccb65921b2": "6afca8053f600a65285b929f",
+    "6ac823306a5c39ccb65921b2:story": "6afca805f7b04ce25b5682bb"
+   }
+  },
+  "st-services-ilotech": {
+   "date": "2026-11-18T08:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6afca8066128798257e9003d",
+    "6ac8472a6a5c39ccb65aad3d": "6afca8076128798257e901fc",
+    "6ac823306a5c39ccb65921b2": "6afca8089c73f3089bb12a8c",
+    "6ac823306a5c39ccb65921b2:story": "6afca808dfd7767b007379a6"
+   }
+  },
+  "anno-it-onduleur": {
+   "date": "2026-11-18T10:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6afca8099c73f3089bb12b05",
+    "6ac8472a6a5c39ccb65aad3d": "6afca8093f600a65285b9426",
+    "6ac823306a5c39ccb65921b2": "6afca80af7b04ce25b56850f",
+    "6ac823306a5c39ccb65921b2:story": "6afca80adfd7767b00737a1c"
+   }
   }
  }
 }
