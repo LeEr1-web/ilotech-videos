@@ -1068,6 +1068,24 @@
     "6ac823306a5c39ccb65921b2": "6afca80af7b04ce25b56850f",
     "6ac823306a5c39ccb65921b2:story": "6afca80adfd7767b00737a1c"
    }
+  },
+  "st-telephone-plein": {
+   "date": "2026-11-18T12:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6afd1f6193fa11d37d044ece",
+    "6ac8472a6a5c39ccb65aad3d": "6afd1f62bb12698d15957af1",
+    "6ac823306a5c39ccb65921b2": "6afd1f62fc933ac285c0453f",
+    "6ac823306a5c39ccb65921b2:story": "6afd1f63aa3b065dd96e5b9c"
+   }
+  },
+  "anno-it-pc-lent": {
+   "date": "2026-11-18T14:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6afd1f63fc933ac285c0456e",
+    "6ac8472a6a5c39ccb65aad3d": "6afd1f64aa3b065dd96e5bd4",
+    "6ac823306a5c39ccb65921b2": "6afd1f64aa3b065dd96e5bfe",
+    "6ac823306a5c39ccb65921b2:story": "6afd1f6439777dd13e128bd7"
+   }
   }
  }
 }

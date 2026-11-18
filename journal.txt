@@ -308,3 +308,12 @@
 2026-11-17 15:16:25  OK Buffer anno-it-onduleur → tiktok le 18/11 10:00
 2026-11-17 15:16:26  OK Buffer anno-it-onduleur → instagram le 18/11 10:00
 2026-11-17 15:16:26  OK Buffer anno-it-onduleur → instagram story le 18/11 10:05
+2026-11-17 23:45:37  ATTENTION : plus que 5 contenus en ligne en réserve, il faut allumer le PC (fabrique + réserve)
+2026-11-17 23:45:38  OK Buffer st-telephone-plein → youtube le 18/11 12:00
+2026-11-17 23:45:38  OK Buffer st-telephone-plein → tiktok le 18/11 12:00
+2026-11-17 23:45:38  OK Buffer st-telephone-plein → instagram le 18/11 12:00
+2026-11-17 23:45:39  OK Buffer st-telephone-plein → instagram story le 18/11 12:05
+2026-11-17 23:45:39  OK Buffer anno-it-pc-lent → youtube le 18/11 14:00
+2026-11-17 23:45:40  OK Buffer anno-it-pc-lent → tiktok le 18/11 14:00
+2026-11-17 23:45:40  OK Buffer anno-it-pc-lent → instagram le 18/11 14:00
+2026-11-17 23:45:40  OK Buffer anno-it-pc-lent → instagram story le 18/11 14:05
