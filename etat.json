@@ -1086,6 +1086,33 @@
     "6ac823306a5c39ccb65921b2": "6afd1f64aa3b065dd96e5bfe",
     "6ac823306a5c39ccb65921b2:story": "6afd1f6439777dd13e128bd7"
    }
+  },
+  "st-web-ia": {
+   "date": "2026-11-18T16:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6afdf51a886993bf4afbe541",
+    "6ac8472a6a5c39ccb65aad3d": "6afdf51ba2e55b578d3b466e",
+    "6ac823306a5c39ccb65921b2": "6afdf51ca2e55b578d3b46ad",
+    "6ac823306a5c39ccb65921b2:story": "6afdf51c886993bf4afbe5b7"
+   }
+  },
+  "anno-it-sms-colis": {
+   "date": "2026-11-18T19:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6afdf51d058a84d076339a8f",
+    "6ac8472a6a5c39ccb65aad3d": "6afdf51ead38b37352f942e5",
+    "6ac823306a5c39ccb65921b2": "6afdf51e886993bf4afbe5ff",
+    "6ac823306a5c39ccb65921b2:story": "6afdf51f886993bf4afbe62f"
+   }
+  },
+  "anno-it-story-box": {
+   "date": "2026-11-19T06:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6afdf51f886993bf4afbe69d",
+    "6ac8472a6a5c39ccb65aad3d": "6afdf5209cf472c6917dad7e",
+    "6ac823306a5c39ccb65921b2": "6afdf5209cf472c6917dada7",
+    "6ac823306a5c39ccb65921b2:story": "6afdf521058a84d076339b0d"
+   }
   }
  }
 }

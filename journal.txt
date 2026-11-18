@@ -317,3 +317,16 @@
 2026-11-17 23:45:40  OK Buffer anno-it-pc-lent → tiktok le 18/11 14:00
 2026-11-17 23:45:40  OK Buffer anno-it-pc-lent → instagram le 18/11 14:00
 2026-11-17 23:45:40  OK Buffer anno-it-pc-lent → instagram story le 18/11 14:05
+2026-11-18 14:57:30  ATTENTION : plus que 3 contenus en ligne en réserve, il faut allumer le PC (fabrique + réserve)
+2026-11-18 14:57:31  OK Buffer st-web-ia → youtube le 18/11 16:00
+2026-11-18 14:57:31  OK Buffer st-web-ia → tiktok le 18/11 16:00
+2026-11-18 14:57:32  OK Buffer st-web-ia → instagram le 18/11 16:00
+2026-11-18 14:57:32  OK Buffer st-web-ia → instagram story le 18/11 16:05
+2026-11-18 14:57:33  OK Buffer anno-it-sms-colis → youtube le 18/11 19:00
+2026-11-18 14:57:34  OK Buffer anno-it-sms-colis → tiktok le 18/11 19:00
+2026-11-18 14:57:34  OK Buffer anno-it-sms-colis → instagram le 18/11 19:00
+2026-11-18 14:57:35  OK Buffer anno-it-sms-colis → instagram story le 18/11 19:05
+2026-11-18 14:57:35  OK Buffer anno-it-story-box → youtube le 19/11 06:00
+2026-11-18 14:57:36  OK Buffer anno-it-story-box → tiktok le 19/11 06:00
+2026-11-18 14:57:36  OK Buffer anno-it-story-box → instagram le 19/11 06:00
+2026-11-18 14:57:37  OK Buffer anno-it-story-box → instagram story le 19/11 06:05
