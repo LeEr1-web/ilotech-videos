@@ -1145,6 +1145,45 @@
     "6ac823306a5c39ccb65921b2": "6b066acf22dfb7833a7ee8bb",
     "6ac823306a5c39ccb65921b2:story": "6b066ad0b6204bca46c8d7ec"
    }
+  },
+  "c6-commerce-conges": {
+   "date": "2026-11-26T06:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6b076d59a791bea1b2360691",
+    "6ac823306a5c39ccb65921b2": "6b076d5ab96dd8d3516e9f8d"
+   }
+  },
+  "b-box-aeree": {
+   "date": "2026-11-26T08:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6b076d5bd4eda4b659bc5b30",
+    "6ac8472a6a5c39ccb65aad3d": "6b076d5ba791bea1b236071f",
+    "6ac823306a5c39ccb65921b2": "6b076d5db96dd8d3516ea17c",
+    "6ac823306a5c39ccb65921b2:story": "6b076d5dd4eda4b659bc5ef0"
+   }
+  },
+  "c6-tablette-enfant": {
+   "date": "2026-11-26T10:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6b076d5fb8e2338b85702f61",
+    "6ac823306a5c39ccb65921b2": "6b076d60b8e2338b85702f8e"
+   }
+  },
+  "d-bilan-fin-annee": {
+   "date": "2026-11-26T12:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6b076d619f6dda31cca61913",
+    "6ac8472a6a5c39ccb65aad3d": "6b076d62d4eda4b659bc613e",
+    "6ac823306a5c39ccb65921b2": "6b076d63b96dd8d3516ea424",
+    "6ac823306a5c39ccb65921b2:story": "6b076d649f6dda31cca61b95"
+   }
+  },
+  "c6-telephone-perdu": {
+   "date": "2026-11-26T14:00:00-04:00",
+   "canaux": {
+    "6ac8472a6a5c39ccb65aad3d": "6b076d65b96dd8d3516ea55a",
+    "6ac823306a5c39ccb65921b2": "6b076d6507071a606737c7b9"
+   }
   }
  }
 }
