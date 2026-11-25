@@ -355,3 +355,4 @@
 2026-11-25 00:57:52  OK Buffer d-commerce-panne → instagram le 25/11 12:00
 2026-11-25 00:57:52  OK Buffer d-commerce-panne → instagram story le 25/11 12:05
 2026-11-25 00:57:53  ERREUR Buffer k-faux-conseiller : youtube : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.
+2026-11-25 16:02:13  ERREUR Buffer b-box-aeree : youtube : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.
