@@ -342,3 +342,16 @@
 2026-11-23 18:10:16  Buffer : file pleine ou plus rien à programmer (0 contenus en ligne en réserve)
 2026-11-24 02:12:44  Buffer : file pleine ou plus rien à programmer (0 contenus en ligne en réserve)
 2026-11-24 16:45:08  Buffer : file pleine ou plus rien à programmer (0 contenus en ligne en réserve)
+2026-11-25 00:57:47  OK Buffer c5-ia-donnees → tiktok le 25/11 06:00
+2026-11-25 00:57:47  OK Buffer c5-ia-donnees → instagram le 25/11 06:00
+2026-11-25 00:57:48  OK Buffer b-box-coupure-courant → youtube le 25/11 08:00
+2026-11-25 00:57:48  OK Buffer b-box-coupure-courant → tiktok le 25/11 08:00
+2026-11-25 00:57:48  OK Buffer b-box-coupure-courant → instagram le 25/11 08:00
+2026-11-25 00:57:49  OK Buffer b-box-coupure-courant → instagram story le 25/11 08:05
+2026-11-25 00:57:50  OK Buffer c5-passkey → tiktok le 25/11 10:00
+2026-11-25 00:57:50  OK Buffer c5-passkey → instagram le 25/11 10:00
+2026-11-25 00:57:51  OK Buffer d-commerce-panne → youtube le 25/11 12:00
+2026-11-25 00:57:51  OK Buffer d-commerce-panne → tiktok le 25/11 12:00
+2026-11-25 00:57:52  OK Buffer d-commerce-panne → instagram le 25/11 12:00
+2026-11-25 00:57:52  OK Buffer d-commerce-panne → instagram story le 25/11 12:05
+2026-11-25 00:57:53  ERREUR Buffer k-faux-conseiller : youtube : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.
