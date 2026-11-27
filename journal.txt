@@ -358,3 +358,4 @@
 2026-11-25 16:02:13  ERREUR Buffer b-box-aeree : youtube : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.
 2026-11-26 00:14:17  ERREUR Buffer k-annonce-absence : youtube : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.
 2026-11-26 15:44:43  ERREUR Buffer k-annonce-absence : youtube : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.
+2026-11-27 00:22:35  ERREUR Buffer pa-cadeau-telephone-config : youtube : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.
