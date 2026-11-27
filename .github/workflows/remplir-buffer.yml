@@ -30,6 +30,12 @@ jobs:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
         run: python3 outils/planif_buffer.py
 
+      - name: Prévenir ILO Central
+        if: always()
+        env:
+          CENTRAL_JETON: ${{ secrets.CENTRAL_JETON }}
+        run: python3 outils/central.py
+
       - name: Enregistrer l'état
         if: always()
         run: |
