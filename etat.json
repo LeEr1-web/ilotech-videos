@@ -1184,6 +1184,23 @@
     "6ac8472a6a5c39ccb65aad3d": "6b076d65b96dd8d3516ea55a",
     "6ac823306a5c39ccb65921b2": "6b076d6507071a606737c7b9"
    }
+  },
+  "k-annonce-absence": {
+   "date": "2026-11-27T06:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6b08e6d107985b96e3071d9e",
+    "6ac8472a6a5c39ccb65aad3d": "6b08e6d28899c4e7790b3f52",
+    "6ac823306a5c39ccb65921b2": "6b08e6d39131f7416c6713f7",
+    "6ac823306a5c39ccb65921b2:story": "6b08e6d47c3f43554e4d1af1"
+   }
+  },
+  "p-console-sapin": {
+   "date": "2026-11-27T08:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6b08e6d5548b6e180d51abbd",
+    "6ac8472a6a5c39ccb65aad3d": "6b08e6d69131f7416c6714b8",
+    "6ac823306a5c39ccb65921b2": "6b08e6d7548b6e180d51ac23"
+   }
   }
  }
 }
