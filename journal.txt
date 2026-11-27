@@ -359,3 +359,16 @@
 2026-11-26 00:14:17  ERREUR Buffer k-annonce-absence : youtube : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.
 2026-11-26 15:44:43  ERREUR Buffer k-annonce-absence : youtube : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.
 2026-11-27 00:22:35  ERREUR Buffer pa-cadeau-telephone-config : youtube : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.
+2026-11-27 15:35:07  OK Buffer pa-cadeau-telephone-config → youtube le 27/11 19:00
+2026-11-27 15:35:08  OK Buffer pa-cadeau-telephone-config → tiktok le 27/11 19:00
+2026-11-27 15:35:08  OK Buffer pa-cadeau-telephone-config → instagram le 27/11 19:00
+2026-11-27 15:35:09  OK Buffer pa-cadeau-telephone-config → instagram story le 27/11 19:05
+2026-11-27 15:35:09  OK Buffer d-cameras-conges → youtube le 28/11 06:00
+2026-11-27 15:35:10  OK Buffer d-cameras-conges → tiktok le 28/11 06:00
+2026-11-27 15:35:11  OK Buffer d-cameras-conges → instagram le 28/11 06:00
+2026-11-27 15:35:11  STORY IGNORÉE d-cameras-conges → instagram : instagram story : Invalid post: Video must be no longer than 1m 1s for Instagram Stories.
+2026-11-27 15:35:12  OK Buffer k-faux-avis-passage → youtube le 28/11 08:00
+2026-11-27 15:35:12  OK Buffer k-faux-avis-passage → tiktok le 28/11 08:00
+2026-11-27 15:35:13  OK Buffer k-faux-avis-passage → instagram le 28/11 08:00
+2026-11-27 15:35:14  OK Buffer k-faux-avis-passage → instagram story le 28/11 08:05
+2026-11-27 15:35:14  ERREUR Buffer pa-cameras-commerce-panneau : youtube : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.
