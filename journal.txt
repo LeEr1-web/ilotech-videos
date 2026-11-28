@@ -372,3 +372,4 @@
 2026-11-27 15:35:13  OK Buffer k-faux-avis-passage → instagram le 28/11 08:00
 2026-11-27 15:35:14  OK Buffer k-faux-avis-passage → instagram story le 28/11 08:05
 2026-11-27 15:35:14  ERREUR Buffer pa-cameras-commerce-panneau : youtube : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.
+2026-11-28 00:02:52  ERREUR Buffer pa-cameras-commerce-panneau : youtube : You have already scheduled the maximum number of posts YouTube allows in a day (2). Please consider scheduling this post for another day.
