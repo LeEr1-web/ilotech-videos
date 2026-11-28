@@ -1227,6 +1227,24 @@
     "6ac823306a5c39ccb65921b2": "6b09db71277f27038a31f20e",
     "6ac823306a5c39ccb65921b2:story": "6b09db71c02ca0988aacde36"
    }
+  },
+  "pa-cameras-commerce-panneau": {
+   "date": "2026-11-28T14:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6b0afe1487a1e2d7ec76a0ad",
+    "6ac8472a6a5c39ccb65aad3d": "6b0afe154922b25e3fc8e901",
+    "6ac823306a5c39ccb65921b2": "6b0afe164922b25e3fc8e989",
+    "6ac823306a5c39ccb65921b2:story": "6b0afe17b9b186a7f7bb045a"
+   }
+  },
+  "b-fibre-cable-plie": {
+   "date": "2026-11-28T16:00:00-04:00",
+   "canaux": {
+    "6aca4de46a5c39ccb6721c49": "6b0afe184922b25e3fc8ea72",
+    "6ac8472a6a5c39ccb65aad3d": "6b0afe194922b25e3fc8eac5",
+    "6ac823306a5c39ccb65921b2": "6b0afe1a5b62080e00246446",
+    "6ac823306a5c39ccb65921b2:story": "6b0afe1b4922b25e3fc8ee23"
+   }
   }
  }
 }
